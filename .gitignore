@@ -1,0 +1,9 @@
+# Directorios
+.venv
+**__pycache__
+
+# Archivos
+config.py
+
+# Temporales
+Datasets/*

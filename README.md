@@ -16,11 +16,11 @@
 
 * [Propuesta](#Propuesta)
 
-* [Objetivo General y Especificos](#Objetivo-General-y-Especificos)
-
-* [Tecnologías utilizadas](#Tecnologías-Utilizadas)
+* [Objetivo General y Específicos](#Objetivo-General-y-Específicos)
 
 * [Indicadores claves de Desempeño](#Indicadores-claves-de-Desempeño)
+
+* [Tecnologías utilizadas](#Tecnologías-Utilizadas)
 
 * [Conclusión](#Conclusión)
 
@@ -84,7 +84,7 @@ Para las variables categóricas, se calcularán frecuencias y porcentajes, adem�
 * Selección de dos modelos alineados a los objetivos, implementando solo uno ajustado correctamente para una mejor predicción o inferencia.
 * Este modelo se implementará utilizando el framework de Python Streamlit, mientras que el segundo modelo quedará documentado.
 
-## Objetivo General y Especificos
+## Objetivo General y Específicos
 
 ### Objetivo General
 

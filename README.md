@@ -25,6 +25,136 @@
 
 * [Autores](#Autores)
 
+# Proyecto: Implementación de una Flota de Taxis Eléctricos en Nueva York
+
+## Introducción
+
+En los últimos años, el tránsito de vehículos se ha transformado en un problema en Nueva York debido a su gran cantidad, que excede la capacidad de las calles y de estacionamiento. Por este motivo, hay una gran demanda de otros medios de transporte como los taxis. Sin embargo, el sector del transporte es el que más emisiones de CO2 produce en todo Estados Unidos. Para mitigar el impacto ambiental de dicho sector, surge la idea de buscar una forma de reducir la contaminación sin descuidar las necesidades de las personas. Este proyecto tiene como objetivo explorar las posibilidades de incorporar una flota de taxis eléctricos en Nueva York.
+
+## Descripción
+
+El objetivo principal de este proyecto es analizar la viabilidad de implementar una flota de taxis eléctricos en Nueva York, considerando su impacto en la reducción de emisiones de CO2, la mejora de la calidad del aire y la reducción de la contaminación sonora.
+
+## Conjunto de Datos
+
+1. **Data de viajes**: Camilo
+2. **Dataset de Kaggle sobre emisiones de CO2 por país y año, con ajustes por población**: Javy
+3. **Dataset de los sonidos recolectados en NYC**: Facu
+4. **Dataset de la calidad del aire de NYC**: Facu y Javy
+5. **Electric car and Fuel car**: Maik
+
+## Propuesta
+
+### Limpieza y preparación de datos
+
+- Realización de un análisis exploratorio completo de los datos buscando valores faltantes, nulos, outliers, registros duplicados, tipos de datos y distribución.
+- Aplicación de técnicas adecuadas para tratar los casos de valores faltantes, como la eliminación de registros incompletos, eliminación de columna, o imputación de valores.
+- Verificación de la consistencia y validez de los datos, asegurando que los valores estén dentro de rangos razonables y que no existan incoherencias.
+
+### Análisis descriptivo
+
+- Utilización de medidas de resumen como la media, mediana, moda, desviación estándar, rango y cuartiles para describir las variables numéricas.
+- Cálculo de frecuencias y porcentajes para las variables categóricas, además de medidas de asociación como el chi-cuadrado o el índice de correlación de Cramer.
+- Elaboración de gráficos y tablas adecuados para visualizar la distribución de las variables y las relaciones entre ellas, utilizando histogramas, diagramas de cajas, gráficos de barras y dispersión, entre otros.
+
+### Base de Datos
+
+- Implementación de un sistema de gestión de base de datos en la nube, garantizando la normalización y alta calidad de los datos, buscando confiabilidad, precisión y facilidad de análisis.
+- El sistema de base de datos almacenará la información que será utilizada por dos subsistemas: un dashboard de visualización y un modelo de machine learning para inferencia o predicción.
+
+### Modelo de Aprendizaje Automático
+
+- Selección de dos modelos alineados a los objetivos, implementando solo uno ajustado correctamente para una mejor predicción o inferencia. Este modelo se implementará utilizando el framework de Python Streamlit, mientras que el segundo modelo quedará documentado.
+
+## Objetivos
+
+### Objetivo General
+
+Evaluar la viabilidad y el impacto de la implementación de vehículos Eléctricos/Híbridos/Gasolina en la flota de transporte de pasajeros en Nueva York, utilizando datos de viajes en taxis y servicios de transporte compartido, así como datos de calidad del aire, para proporcionar recomendaciones estratégicas basadas en análisis de datos robustos.
+
+### Objetivos Específicos
+
+1. Evaluar la viabilidad económica de la implementación de distintos tipos de vehículos, considerando costos, rendimiento y retorno de inversión, entre otros factores.
+2. Estudiar cómo la implementación de taxis alternativos mejora la calidad del aire en Nueva York, comparando datos de calidad del aire antes y después de la implementación.
+3. Proporcionar un modelo de Machine Learning que ayude en distintos aspectos del proyecto, como el cálculo de tarifas de los viajes.
+4. Comparar las emisiones de CO2 entre taxis tradicionales y taxis alternativos para analizar la viabilidad ambiental.
+5. Analizar la demanda de taxis en diferentes zonas para poder focalizar la operación.
+6. Brindar toda la información posible y útil al cliente para que pueda tomar decisiones informadas y basadas en datos.
+
+## Tecnologías Utilizadas
+
+### Herramientas de Organización y Comunicación
+
+- **Discord**: Para la comunicación en tiempo real y la colaboración en equipo.
+- **Slack**: Para la gestión de conversaciones y la integración con otras herramientas.
+- **Google Meet**: Para videoconferencias y reuniones virtuales.
+- **Trello / Jira**: Para la gestión de proyectos y seguimiento de tareas.
+
+### Herramientas de Trabajo en la Elaboración del ETL y el EDA
+
+- **Git**: Para el control de versiones y la colaboración en el desarrollo de código.
+- **Python**: Utilizado con librerías específicas para data science como Numpy, Pandas, Matplotlib, entre otras.
+
+### Infraestructura Tecnológica para el Ciclo de Datos
+
+#### Propuesta 1
+
+- **Docker**: Para la contenedorización y despliegue de aplicaciones.
+- **Datalake Hadoop**: Para el almacenamiento y procesamiento de grandes volúmenes de datos.
+- **Orquestador Airflow**: Para la gestión y procesamiento de grandes volúmenes de datos.
+- **MySQL**: Para el almacenamiento y gestión de bases de datos relacionales.
+- **Render (ML)**: Para el despliegue y ejecución de modelos de machine learning.
+
+#### Propuesta 2: Servicios de GCP
+
+- **Lucidchart**: Como software de diagramación online.
+- **Cloud Storage**: Para el almacenamiento de datos en la nube.
+- **Cloud Functions**: Para la ejecución de código sin necesidad de gestionar servidores.
+- **BigQuery**: Para el análisis y procesamiento de grandes conjuntos de datos.
+- Otros servicios según las necesidades del proyecto.
+
+### Herramientas para la Visualización de Datos
+
+- **Power BI**: Para la creación de informes interactivos y dashboards.
+- **Streamlit**: Para la creación de aplicaciones web interactivas y visualización de datos en tiempo real.
+
+### Herramienta para Presentaciones Visuales
+
+- **Prezi**: Para la creación de presentaciones dinámicas y visualmente atractivas.
+
+## Justificación de Utilizar Google Cloud
+
+Google Cloud ofrece una infraestructura escalable y adaptable a las necesidades de crecimiento de cualquier organización. Los servicios de Google Cloud permiten almacenar grandes volúmenes de datos sin preocuparse por las limitaciones de capacidad y realizar consultas de manera rápida y eficiente. Además, Google Cloud proporciona características de seguridad esenciales y modelos de precios competitivos y flexibles.
+
+## KPI's (Pre-planteados)
+
+1. **TasaReducción_Carbono**: Reducir en un 50% la emisión de dióxido de carbono en comparación con los taxis tradicionales a gasolina.
+   <center>
+$\frac{\text{Cantidad de carbono emitida por taxis alternativos} - \text{Cantidad de carbono emitida por taxis tradicionales}}{\text{Cantidad de carbono emitida por taxis tradicionales}} \times 100$
+</center>
+
+2. **TasaGanancia_Bruta**: Superar en un 10% la tasa media de ganancia bruta con taxis alternativos respecto a los taxis tradicionales.
+
+   <center>
+$\frac{\text{Ganancia bruta taxis alternativos} - \text{Ganancia bruta taxis tradicionales}}{\text{Ganancia bruta taxis tradicionales}} \times 100$
+</center>
+
+
+3. **Tiempo_Retorno_Inversión**: Medir el retorno de inversión de la implementación de la flota de taxis.
+
+   <center>
+$\frac{\text{Inversión total} - \text{Ganancia bruta diaria}}{\text{Ganancia bruta diaria}}$
+</center>
+
+## Contribución
+
+Por favor, sigue estas pautas para contribuir al proyecto:
+1. Realiza un fork del repositorio.
+2. Crea una nueva rama (`git checkout -b feature/nueva-feature`).
+3. Realiza tus cambios y commitea (`git commit -m 'Añadir nueva feature'`).
+4. Sube tus cambios (`git push origin feature/nueva-feature`).
+5. Abre un Pull Request.
+
 ## Autores
 
 La dedicación y el trabajo en equipo de estas personas hicieron posible la realización de este proyecto

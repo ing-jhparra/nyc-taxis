@@ -51,11 +51,9 @@ El objetivo principal de este proyecto es analizar la viabilidad de implementar 
 
 **Dashboard interactivo**: Un tablero de control interactivo que presentará información relevante basada en los KPI definidos, promoviendo una toma de decisiones informada y efectiva.
 
-<div>
-        <img src="img/GoogleCloud.png" alt="Imagen 2" width="20%">
-        <img src="img/cerebro.png" alt="Imagen 1" width="20%">
-        <img src="img/powerbi.png" alt="Imagen 3" width="20%" height="180">
-    </div>
+<div style="display: flex; justify-content:space-between;">
+        <img src="img/logos.png" alt="Imagen 3" width="50%" height="50%">
+</div>
 
 ## Objetivo General y Específicos
 

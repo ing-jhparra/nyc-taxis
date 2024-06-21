@@ -1,16 +1,3 @@
-<style>
-        .contenedor-imagenes {
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-            gap: 10px;
-        }
-        .contenedor-imagenes img {
-            width: 30%;
-            height: auto;
-        }
-</style>
-
 # Proyecto: Implementación de una Flota de Taxis Eléctricos en Nueva York
 <p align="center">
    <br />
@@ -58,12 +45,17 @@ El objetivo principal de este proyecto es analizar la viabilidad de implementar 
 
 ## Propuesta 
 
-Esquema de datos en la nube: Un sistema organizado de almacenamiento y procesamiento de datos en la nube, donde se gestionará la información y se distribuirá a los componentes necesarios.
+**Esquema de datos en la nube**: Un sistema organizado de almacenamiento y procesamiento de datos en la nube, donde se gestionará la información y se distribuirá a los componentes necesarios.
 
-Aplicativo de Machine Learning: Una aplicación basada en Machine Learning que funcionará como calculadora de tarifas de viajes, ajustando el precio en función de la distancia y el tiempo del recorrido, garantizando así un costo justo para cada viaje.
+**Aplicativo de Machine Learning**: Una aplicación basada en Machine Learning que funcionará como calculadora de tarifas de viajes, ajustando el precio en función de la distancia y el tiempo del recorrido, garantizando así un costo justo para cada viaje.
 
-Dashboard interactivo: Un tablero de control interactivo que presentará información relevante basada en los KPI definidos, promoviendo una toma de decisiones informada y efectiva.
+**Dashboard interactivo**: Un tablero de control interactivo que presentará información relevante basada en los KPI definidos, promoviendo una toma de decisiones informada y efectiva.
 
+<div>
+        <img src="img/GoogleCloud.png" alt="Imagen 2" width="20%">
+        <img src="img/cerebro.png" alt="Imagen 1" width="20%">
+        <img src="img/powerbi.png" alt="Imagen 3" width="20%" height="180">
+    </div>
 
 ## Objetivo General y Específicos
 
@@ -84,19 +76,21 @@ Evaluar la viabilidad y el impacto de la implementación de vehículos Eléctric
 
 1. **TasaReducción_Carbono**: Reducir en un 50% la emisión de dióxido de carbono en comparación con los taxis tradicionales a gasolina.
    <center>
-$\frac{\text{Cantidad de carbono emitida por taxis alternativos} - \text{Cantidad de carbono emitida por taxis tradicionales}}{\text{Cantidad de carbono emitida por taxis tradicionales}} \times 100$
+$\frac{\text{Cantidad de carbono emitida por taxis alternativos}}{\text{Cantidad de carbono emitida por taxis tradicionales}} \times 100$
 </center>
 
 2. **TasaGanancia_Bruta**: Superar en un 10% la tasa media de ganancia bruta con taxis alternativos respecto a los taxis tradicionales.
 
    <center>
-$\frac{\text{Ganancia bruta taxis alternativos} - \text{Ganancia bruta taxis tradicionales}}{\text{Ganancia bruta taxis tradicionales}} \times 100$
+$\frac{\text{Ganancia bruta taxis alternativos}}{\text{Ganancia bruta taxis tradicionales}} \times 100$
 </center>
+
+  **Ganancia Bruta = Ingreso por Taxi - Costos de Combustible**
 
 3. **Tiempo_Retorno_Inversión**: Medir el retorno de inversión de la implementación de la flota de taxis.
 
    <center>
-$\frac{\text{Inversión total} - \text{Ganancia bruta diaria}}{\text{Ganancia bruta diaria}}$
+$\frac{\text{Inversión total}}{\text{Ganancia bruta diaria}}$
 </center>
 
 ## Tecnologías Utilizadas

@@ -1,3 +1,15 @@
+<style>
+        .contenedor-imagenes {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            gap: 10px;
+        }
+        .contenedor-imagenes img {
+            width: 30%;
+            height: auto;
+        }
+</style>
 
 # Proyecto: Implementación de una Flota de Taxis Eléctricos en Nueva York
 <p align="center">
@@ -30,7 +42,7 @@
 
 ## Introducción
 
-En los últimos años, el tránsito de vehículos se transformó en un problema en New York debido a su gran cantidad que excede la capacidad de las calles y de estacionamiento. Por ese motivo hay una gran demanda de otros medios de transporte como los taxis. Sin embargo, el medio de transporte es el sector que más emisiones de CO2 produce en todo Estados Unidos. Para mitigar el impacto ambiental de dicho rubro, surge la idea de buscar una forma de reducir la contaminación sin descuidar las necesidades de las personas. Para ello, se llevará a cabo el siguiente proyecto para explorar las posibilidades de incorporar una flota de taxis eléctricos en NY.
+Sabemos que la movilidad en las ciudades es un tema importante, el tránsito de vehículos en New York no es la excepción, se ha aumentado la demanda de taxis y con ella se han visto afectadas otras dimesiones. El transporte es el sector que más emisiones de CO2 produce en Estados Unidos. Para mitigar su impacto ambiental sin descuidar las necesidades de transporte, este proyecto explotarará la incorporación de una flota de taxis eléctricos en New York.
 
 ## Descripción
 
@@ -46,43 +58,12 @@ El objetivo principal de este proyecto es analizar la viabilidad de implementar 
 
 ## Propuesta 
 
-**Limpieza y preparación de datos**:
-* Se realizará un análisis exploratorio completo de los datos buscando valores faltantes, nulos, outliers, registros duplicados, tipos de datos y distribución. Se aplicarán técnicas adecuadas para tratar los casos de valores faltantes, como la eliminación de registros incompletos, eliminación de columna, o imputación de valores.
-* Se verificará la consistencia y validez de los datos, asegurando que los valores estén dentro de rangos razonables y que no existan incoherencias.
+Esquema de datos en la nube: Un sistema organizado de almacenamiento y procesamiento de datos en la nube, donde se gestionará la información y se distribuirá a los componentes necesarios.
 
-**Análisis descriptivo**:
-* Se utilizarán medidas de resumen como la media, mediana, moda, desviación estándar, rango y cuartiles para describir las variables numéricas.
-Para las variables categóricas, se calcularán frecuencias y porcentajes, además de medidas de asociación como el chi-cuadrado o el índice de correlación de Cramer.
-* Se elaborarán gráficos y tablas adecuados para visualizar la distribución de las variables y las relaciones entre ellas. Se utilizarán histogramas, diagramas de cajas, gráficos de barras y dispersión, entre otros.
+Aplicativo de Machine Learning: Una aplicación basada en Machine Learning que funcionará como calculadora de tarifas de viajes, ajustando el precio en función de la distancia y el tiempo del recorrido, garantizando así un costo justo para cada viaje.
 
-**Base de Datos**
-* Se implementará un sistema de gestión de base de datos en la nube, garantizando la normalización y alta calidad de los datos, buscando confiabilidad, precisión y facilidad de análisis. 
-* El sistema de base de datos almacenará la información que será utilizada por dos subsistemas: un dashboard de visualización que presentará insights y KPIs de manera clara y atractiva, y un modelo de machine learning de inferencia o predicción que aprovechará los datos para generar pronósticos y análisis valiosos.
+Dashboard interactivo: Un tablero de control interactivo que presentará información relevante basada en los KPI definidos, promoviendo una toma de decisiones informada y efectiva.
 
-**Modelo de Aprendizaje Automático**:
-* Se seleccionará dos modelos que estarán alineados a los objetivos, pero solo uno será implementado ajustados bien sus parámetros para una mejor predicción o inferencia, Este modelo será implementado utilizando el framework de python Streamlit, el segundo modelo quedará documentado.
-
-### Limpieza y preparación de datos
-
-* Realización de un análisis exploratorio completo de los datos buscando valores faltantes, nulos, outliers, registros duplicados, tipos de datos y distribución.
-* Aplicación de técnicas adecuadas para tratar los casos de valores faltantes, como la eliminación de registros incompletos, eliminación de columna, o imputación de valores.
-* Verificación de la consistencia y validez de los datos, asegurando que los valores estén dentro de rangos razonables y que no existan incoherencias.
-
-### Análisis descriptivo
-
-* Utilización de medidas de resumen como la media, mediana, moda, desviación estándar, rango y cuartiles para describir las variables numéricas.
-* Cálculo de frecuencias y porcentajes para las variables categóricas, además de medidas de asociación como el chi-cuadrado o el índice de correlación de Cramer.
-* Elaboración de gráficos y tablas adecuados para visualizar la distribución de las variables y las relaciones entre ellas, utilizando histogramas, diagramas de cajas, gráficos de barras y dispersión, entre otros.
-
-### Base de Datos
-
-* Implementación de un sistema de gestión de base de datos en la nube, garantizando la normalización y alta calidad de los datos, buscando confiabilidad, precisión y facilidad de análisis.
-* El sistema de base de datos almacenará la información que será utilizada por dos subsistemas: un dashboard de visualización y un modelo de machine learning para inferencia o predicción.
-
-### Modelo de Aprendizaje Automático
-
-* Selección de dos modelos alineados a los objetivos, implementando solo uno ajustado correctamente para una mejor predicción o inferencia.
-* Este modelo se implementará utilizando el framework de Python Streamlit, mientras que el segundo modelo quedará documentado.
 
 ## Objetivo General y Específicos
 

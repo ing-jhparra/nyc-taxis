@@ -95,15 +95,19 @@ $\frac{\text{Inversión total}}{\text{Ganancia bruta diaria}}$
 
 ### Herramientas de Organización y Comunicación
 
-* **Discord**: Para la comunicación en tiempo real y la colaboración en equipo.
-* **Slack**: Para la gestión de conversaciones y la integración con otras herramientas.
-* **Google Meet**: Para videoconferencias y reuniones virtuales.
-* **Trello / Jira**: Para la gestión de proyectos y seguimiento de tareas.
+<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="20px" > **Discord**: Para la comunicación en tiempo real y la colaboración en equipo.
+
+<img src="img\Slack.png" width="20px"> **Slack**: Para la gestión de conversaciones y la integración con otras herramientas.
+
+<img src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_servicios_comunicacion_google-meet_icono/im_servicios_comunicacion_google_meet.png" width="20px" height="20px"> **Google Meet**: Para videoconferencias y reuniones virtuales.
+
+<img src="img\Jira.png" width="20px"> **Trello / Jira**: Para la gestión de proyectos y seguimiento de tareas.
 
 ### Herramientas de Trabajo en la Elaboración del ETL y el EDA
 
-- **Git**: Para el control de versiones y la colaboración en el desarrollo de código.
-- **Python**: Utilizado con librerías específicas para data science como Numpy, Pandas, Matplotlib, entre otras.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20px" height="20px" alt="git logo"  />  **Git**: Para el control de versiones y la colaboración en el desarrollo de código.
+
+<img src="https://cdn3.emoji.gg/emojis/9794-python.png" width="20px" height="20px" alt="python"></a> **Python**: Utilizado con librerías específicas para data science como Numpy, Pandas, Matplotlib, entre otras.
 
 ### Infraestructura Tecnológica para el Ciclo de Datos
 
@@ -124,12 +128,13 @@ $\frac{\text{Inversión total}}{\text{Ganancia bruta diaria}}$
 
 ### Herramientas para la Visualización de Datos
 
-* **Power BI**: Para la creación de informes interactivos y dashboards.
-* **Streamlit**: Para la creación de aplicaciones web interactivas y visualización de datos en tiempo real.
+<img src="img\PowerBi.png" width="30px"> **Power BI**: Para la creación de informes interactivos y dashboards.
+
+<img src="img\streamlit-removebg-preview.png" width="30px"> **Streamlit**: Para la creación de aplicaciones web interactivas y visualización de datos en tiempo real.
 
 ### Herramienta para Presentaciones Visuales
 
-* **Prezi**: Para la creación de presentaciones dinámicas y visualmente atractivas.
+<img src="img\Prezi_logo.png" width="20px"> **Prezi**: Para la creación de presentaciones dinámicas y visualmente atractivas.
 
 ### Justificación de Utilizar Google Cloud
 

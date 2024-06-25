@@ -4,23 +4,29 @@ import numpy as np
 import os
 import glob
 
-def EtlTaxisTrip(carpeta, archivo_base):
+def EtlTaxisTrip(carpeta, archivo_base, archivo_consolidado, sample_size=100000):
+    # Cargar informacion de las zonas 
+    taxis_zones= pd.read_csv('../Datasets/taxi_zones.csv', sep=';')
     
+    # Cargar el DataFrame consolidado si existe
+    if os.path.exists(archivo_consolidado):
+        df_consolidado = pd.read_parquet(archivo_consolidado)
+    else:
+        df_consolidado = pd.DataFrame()
+
     # Obtener todos los archivos que coincidan con el patrón
-    taxis_zones= pd.read_csv('C:/Users/HP/Downloads/taxi_zones.csv', sep=';')
     all_files = glob.glob(os.path.join(carpeta, archivo_base))
-    df_consolidado = pd.DataFrame()
-    
     
     for file in all_files:
         if not os.path.exists(file):
             print(f"Archivo no encontrado: {file}")
             continue
         
+        print(f"Procesando archivo: {file}")
         df = pd.read_parquet(file)
         
         # Verificar si el tamaño del muestreo no excede el número de filas del archivo 
-        sample_size = min(300000, len(df))
+        sample_size = min(sample_size, len(df))
         random_indices = np.random.choice(df.index, size=sample_size, replace=False)
         df = df.loc[random_indices]
         
@@ -56,4 +62,14 @@ def EtlTaxisTrip(carpeta, archivo_base):
         # Concatenar el resultado con el DataFrame consolidado
         df_consolidado = pd.concat([df_consolidado, df], ignore_index=True)
     
+    # Guardar el DataFrame consolidado actualizado
+    df_consolidado.to_parquet(archivo_consolidado, index=False)
     return df_consolidado
+
+'''
+# Ejemplo de uso:
+carpeta = '../Datasets/Henry/' # Carpeta donde estan los archivos 
+archivo_base = 'yellow_tripdata_2023-*.parquet'  # Patrón para los archivos a procesar
+archivo_consolidado = './datos_limpios/consolidado.parquet'  # ruta y nombre del Archivo consolidado
+
+'''

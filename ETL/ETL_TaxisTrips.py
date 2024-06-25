@@ -8,7 +8,7 @@ estan justificadas en el analisis que se realizo previamente en el
 Anlisis expliratorio de datos(EDA) "Ver en la carpeta de EDA"
 '''
 
-def EtlTaxisTrip(carpeta, archivo_base):
+def EtlTaxisTrip(carpeta, archivo_base, sample_size=100000):
     
     # Obtener todos los archivos que coincidan con el patrón
     all_files = glob.glob(os.path.join(carpeta, archivo_base))
@@ -22,7 +22,7 @@ def EtlTaxisTrip(carpeta, archivo_base):
         df = pd.read_parquet(file)
         
         # Verificar si el tamaño del muestreo no excede el número de filas del archivo 
-        sample_size = min(200000, len(df))
+        sample_size = min(sample_size, len(df))
         random_indices = np.random.choice(df.index, size=sample_size, replace=False)
         df = df.loc[random_indices]
         

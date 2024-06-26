@@ -1,0 +1,264 @@
+OBJECTID,Shape_Leng,Shape_Area,zone,LocationID,borough
+1,"0,11635745319","0,00078230679",Newark Airport,1,EWR
+2,"0,43346966679","0,00486634038",Jamaica Bay,2,Queens
+3,"0,08434110590","0,00031441416",Allerton/Pelham Gardens,3,Bronx
+4,"0,04356652709","0,00011187195",Alphabet City,4,Manhattan
+5,"0,09214648986","0,00049795749",Arden Heights,5,Staten Island
+6,"0,15049054252","0,00060646098",Arrochar/Fort Wadsworth,6,Staten Island
+7,"0,10741717112","0,00038978799",Astoria,7,Queens
+8,"0,02759069116","0,00002658772",Astoria Park,8,Queens
+9,"0,09978409247","0,00033844380",Auburndale,9,Queens
+10,"0,09983947942","0,00043582382",Baisley Park,10,Queens
+11,"0,07921103896","0,00026452054",Bath Beach,11,Brooklyn
+12,"0,03666130136","0,00004151162",Battery Park,12,Manhattan
+13,"0,05028132286","0,00014935859",Battery Park City,13,Manhattan
+14,"0,17521369805","0,00138177826",Bay Ridge,14,Brooklyn
+15,"0,14433622262","0,00092521940",Bay Terrace/Fort Totten,15,Queens
+16,"0,14129187377","0,00087188945",Bayside,16,Queens
+17,"0,09352263295","0,00032295765",Bedford,17,Brooklyn
+18,"0,06979954986","0,00014885016",Bedford Park,18,Bronx
+19,"0,10182487545","0,00054666109",Bellerose,19,Queens
+20,"0,05144019244","0,00013451263",Belmont,20,Bronx
+21,"0,11597356906","0,00038025135",Bensonhurst East,21,Brooklyn
+22,"0,12617022920","0,00047206268",Bensonhurst West,22,Brooklyn
+23,"0,29055602896","0,00219556576",Bloomfield/Emerson Hill,23,Staten Island
+24,"0,04699996193","0,00006072357",Bloomingdale,24,Manhattan
+25,"0,04714581993","0,00012416827",Boerum Hill,25,Brooklyn
+26,"0,12354780707","0,00053403993",Borough Park,26,Brooklyn
+27,"0,20250880852","0,00134088763",Breezy Point/Fort Tilden/Riis Beach,27,Queens
+28,"0,09796078221","0,00029120393",Briarwood/Jamaica Hills,28,Queens
+29,"0,07140831277","0,00020167384",Brighton Beach,29,Brooklyn
+30,"0,09450976698","0,00014586211",Broad Channel,30,Queens
+31,"0,09642456665","0,00033397593",Bronx Park,31,Bronx
+32,"0,05426721601","0,00015087917",Bronxdale,32,Bronx
+33,"0,05327029320","0,00014741680",Brooklyn Heights,33,Brooklyn
+34,"0,06570593235","0,00017394615",Brooklyn Navy Yard,34,Brooklyn
+35,"0,08578791859","0,00032382520",Brownsville,35,Brooklyn
+36,"0,08705078671","0,00024766614",Bushwick North,36,Brooklyn
+37,"0,14281004047","0,00045206264",Bushwick South,37,Brooklyn
+38,"0,08321756852","0,00032739268",Cambria Heights,38,Queens
+39,"0,13236962076","0,00090028294",Canarsie,39,Brooklyn
+40,"0,05185066488","0,00010894921",Carroll Gardens,40,Brooklyn
+41,"0,05279310945","0,00014309304",Central Harlem,41,Manhattan
+42,"0,09270922746","0,00026389695",Central Harlem North,42,Manhattan
+43,"0,09973861836","0,00037966291",Central Park,43,Manhattan
+44,"0,23568896759","0,00194465649",Charleston/Tottenville,44,Staten Island
+45,"0,04590686262","0,00009135947",Chinatown,45,Manhattan
+46,"0,13447542988","0,00092639168",City Island,46,Bronx
+47,"0,08982755633","0,00016319812",Claremont/Bathgate,47,Bronx
+48,"0,04374674414","0,00009425384",Clinton East,48,Manhattan
+49,"0,07529001834","0,00020318553",Clinton Hill,49,Brooklyn
+50,"0,05574798675","0,00017324928",Clinton West,50,Manhattan
+51,"0,09536134423","0,00039575655",Co-Op City,51,Bronx
+52,"0,02890767101","0,00004520275",Cobble Hill,52,Brooklyn
+53,"0,16150091339","0,00094753098",College Point,53,Queens
+54,"0,07621924486","0,00013245213",Columbia Street,54,Brooklyn
+55,"0,14995680752","0,00073627471",Coney Island,55,Brooklyn
+56,"0,05684781267","0,00018090784",Corona,56,Queens
+57,"0,01927050486","0,00001802598",Corona,56,Queens
+58,"0,05985540949","0,00020498093",Country Club,58,Bronx
+59,"0,03779480709","0,00006287652",Crotona Park,59,Bronx
+60,"0,07864828782","0,00016183328",Crotona Park East,60,Bronx
+61,"0,11731080810","0,00051077209",Crown Heights North,61,Brooklyn
+62,"0,08225933598","0,00015823817",Crown Heights South,62,Brooklyn
+63,"0,11910072188","0,00035319091",Cypress Hills,63,Brooklyn
+64,"0,18445188474","0,00105790285",Douglaston,64,Queens
+65,"0,04460706837","0,00008180388",Downtown Brooklyn/MetroTech,65,Brooklyn
+66,"0,05463345936","0,00010837886",DUMBO/Vinegar Hill,66,Brooklyn
+67,"0,09974707816","0,00039428227",Dyker Heights,67,Brooklyn
+68,"0,04933737956","0,00011107338",East Chelsea,68,Manhattan
+69,"0,07898964505","0,00019905160",East Concourse/Concourse Village,69,Bronx
+70,"0,06384031834","0,00019545848",East Elmhurst,70,Queens
+71,"0,09316945518","0,00038257259",East Flatbush/Farragut,71,Brooklyn
+72,"0,09520206952","0,00032353246",East Flatbush/Remsen Village,72,Brooklyn
+73,"0,08530202091","0,00029179975",East Flushing,73,Queens
+74,"0,11029093625","0,00029503842",East Harlem North,74,Manhattan
+75,"0,08766389977","0,00024056393",East Harlem South,75,Manhattan
+76,"0,24120301627","0,00126660143",East New York,76,Brooklyn
+77,"0,07546108144","0,00019191798",East New York/Pennsylvania Avenue,77,Brooklyn
+78,"0,09359444958","0,00019111442",East Tremont,78,Bronx
+79,"0,04262491131","0,00010789307",East Village,79,Manhattan
+80,"0,11721262145","0,00040732246",East Williamsburg,80,Brooklyn
+81,"0,19759277173","0,00039956655",Eastchester,81,Bronx
+82,"0,11987564970","0,00032360108",Elmhurst,82,Queens
+83,"0,10598493327","0,00021746372",Elmhurst/Maspeth,83,Queens
+84,"0,23362398703","0,00207375572",Eltingville/Annadale/Prince's Bay,84,Staten Island
+85,"0,05747514736","0,00014363780",Erasmus,85,Brooklyn
+86,"0,13424528258","0,00062327882",Far Rockaway,86,Queens
+87,"0,03690154961","0,00006720502",Financial District North,87,Manhattan
+88,"0,03520460353","0,00005729995",Financial District South,88,Manhattan
+89,"0,12279456955","0,00044754814",Flatbush/Ditmas Park,89,Brooklyn
+90,"0,03075916208","0,00005531325",Flatiron,90,Manhattan
+91,"0,12499662459","0,00053733001",Flatlands,91,Brooklyn
+92,"0,11783006680","0,00037494662",Flushing,92,Queens
+93,"0,17099802760","0,00059427818",Flushing Meadows-Corona Park,93,Queens
+94,"0,04983260831","0,00006258194",Fordham South,94,Bronx
+95,"0,11362960548","0,00057277034",Forest Hills,95,Queens
+96,"0,18518024810","0,00054756625",Forest Park/Highland Park,96,Queens
+97,"0,06247601474","0,00016330397",Fort Greene,97,Brooklyn
+98,"0,12166101828","0,00048577302",Fresh Meadows,98,Queens
+99,"0,18337148930","0,00121016464",Freshkills Park,99,Staten Island
+100,"0,02481310903","0,00003747002",Garment District,100,Manhattan
+101,"0,10170983628","0,00045234253",Glen Oaks,101,Queens
+102,"0,13690048465","0,00029659547",Glendale,102,Queens
+103,"0,01430551673","0,00000633056",Governor's Island/Ellis Island/Liberty Island,103,Manhattan
+104,"0,02122083309","0,00001192053",Governor's Island/Ellis Island/Liberty Island,103,Manhattan
+105,"0,07742533983","0,00036863639",Governor's Island/Ellis Island/Liberty Island,103,Manhattan
+106,"0,04921101198","0,00011361683",Gowanus,106,Brooklyn
+107,"0,03804136459","0,00007461122",Gramercy,107,Manhattan
+108,"0,11117141227","0,00035286601",Gravesend,108,Brooklyn
+109,"0,17826781960","0,00116960076",Great Kills,109,Staten Island
+110,"0,10394629291","0,00052574510",Great Kills Park,110,Staten Island
+111,"0,05993088007","0,00020868328",Green-Wood Cemetery,111,Brooklyn
+112,"0,10726787577","0,00046206867",Greenpoint,112,Brooklyn
+113,"0,03274535057","0,00005796346",Greenwich Village North,113,Manhattan
+114,"0,03172703477","0,00004702077",Greenwich Village South,114,Manhattan
+115,"0,11616941396","0,00037316899",Grymes Hill/Clifton,115,Staten Island
+116,"0,06811648443","0,00026041534",Hamilton Heights,116,Manhattan
+117,"0,16988585799","0,00090429427",Hammels/Arverne,117,Queens
+118,"0,24396621769","0,00182693923",Heartland Village/Todt Hill,118,Staten Island
+119,"0,08350703557","0,00018577945",Highbridge,119,Bronx
+120,"0,08326127022","0,00009314628",Highbridge Park,120,Manhattan
+121,"0,09691533734","0,00038456329",Hillcrest/Pomonok,121,Queens
+122,"0,06653184394","0,00022659710",Hollis,122,Queens
+123,"0,08342113894","0,00029644517",Homecrest,123,Brooklyn
+124,"0,12772441006","0,00075483782",Howard Beach,124,Queens
+125,"0,04973221218","0,00007642932",Hudson Sq,125,Manhattan
+126,"0,12994872606","0,00070327383",Hunts Point,126,Bronx
+127,"0,06001888558","0,00016319565",Inwood,127,Manhattan
+128,"0,07020902907","0,00020740598",Inwood Hill Park,128,Manhattan
+129,"0,09327272734","0,00047398833",Jackson Heights,129,Queens
+130,"0,14202832067","0,00046832251",Jamaica,130,Queens
+131,"0,11654712092","0,00042369615",Jamaica Estates,131,Queens
+132,"0,24547851707","0,00203830095",JFK Airport,132,Queens
+133,"0,06513486316","0,00015718899",Kensington,133,Brooklyn
+134,"0,06958782233","0,00020237518",Kew Gardens,134,Queens
+135,"0,12179304566","0,00046791224",Kew Gardens Hills,135,Queens
+136,"0,09062871541","0,00014852499",Kingsbridge Heights,136,Bronx
+137,"0,04610762427","0,00011645510",Kips Bay,137,Manhattan
+138,"0,10746693351","0,00053679729",LaGuardia Airport,138,Queens
+139,"0,09329978845","0,00044666988",Laurelton,139,Queens
+140,"0,04758429113","0,00011420391",Lenox Hill East,140,Manhattan
+141,"0,04151446387","0,00007665456",Lenox Hill West,141,Manhattan
+142,"0,03817589423","0,00007565379",Lincoln Square East,142,Manhattan
+143,"0,05417985388","0,00015109427",Lincoln Square West,143,Manhattan
+144,"0,02762016685","0,00004747897",Little Italy/NoLiTa,144,Manhattan
+145,"0,11431384498","0,00034664173",Long Island City/Hunters Point,145,Queens
+146,"0,04714052157","0,00010463892",Long Island City/Queens Plaza,146,Queens
+147,"0,05876549493","0,00010641817",Longwood,147,Bronx
+148,"0,03913050156","0,00006974899",Lower East Side,148,Manhattan
+149,"0,08368058218","0,00027063962",Madison,149,Brooklyn
+150,"0,08933149118","0,00033256804",Manhattan Beach,150,Brooklyn
+151,"0,05488994110","0,00012884890",Manhattan Valley,151,Manhattan
+152,"0,05790947688","0,00014663764",Manhattanville,152,Manhattan
+153,"0,02473723902","0,00003246850",Marble Hill,153,Manhattan
+154,"0,22733157076","0,00178968692",Marine Park/Floyd Bennett Field,154,Brooklyn
+155,"0,16980847303","0,00086826102",Marine Park/Mill Basin,155,Brooklyn
+156,"0,14447689048","0,00105212174",Mariners Harbor,156,Staten Island
+157,"0,13130021778","0,00035437013",Maspeth,157,Queens
+158,"0,05480999055","0,00018556825",Meatpacking/West Village West,158,Manhattan
+159,"0,06436323321","0,00017124910",Melrose South,159,Bronx
+160,"0,14151914297","0,00057123498",Middle Village,160,Queens
+161,"0,03580391006","0,00007191307",Midtown Center,161,Manhattan
+162,"0,03526981462","0,00004789370",Midtown East,162,Manhattan
+163,"0,03417686698","0,00004085678",Midtown North,163,Manhattan
+164,"0,03577161199","0,00005563182",Midtown South,164,Manhattan
+165,"0,08860803621","0,00035395932",Midwood,165,Brooklyn
+166,"0,06882375429","0,00025527627",Morningside Heights,166,Manhattan
+167,"0,09081597373","0,00016752939",Morrisania/Melrose,167,Bronx
+168,"0,11451743416","0,00054705810",Mott Haven/Port Morris,168,Bronx
+169,"0,06010465803","0,00014602754",Mount Hope,169,Bronx
+170,"0,04576900911","0,00007431507",Murray Hill,170,Manhattan
+171,"0,10735387624","0,00052009954",Murray Hill-Queens,171,Queens
+172,"0,11847611615","0,00065840250",New Dorp/Midland Beach,172,Staten Island
+173,"0,06006396614","0,00017832985",North Corona,173,Queens
+174,"0,06781775596","0,00015592866",Norwood,174,Bronx
+175,"0,13489766510","0,00050492073",Oakland Gardens,175,Queens
+176,"0,15199519070","0,00065778213",Oakwood,176,Staten Island
+177,"0,07158054071","0,00019889476",Ocean Hill,177,Brooklyn
+178,"0,06825287707","0,00017580541",Ocean Parkway South,178,Brooklyn
+179,"0,07138086444","0,00018389348",Old Astoria,179,Queens
+180,"0,08052776715","0,00024768219",Ozone Park,180,Queens
+181,"0,08953723995","0,00030689029",Park Slope,181,Brooklyn
+182,"0,03936063695","0,00009106442",Parkchester,182,Bronx
+183,"0,03982629603","0,00009519295",Pelham Bay,183,Bronx
+184,"0,26081568304","0,00198883363",Pelham Bay Park,184,Bronx
+185,"0,08616196816","0,00022853710",Pelham Parkway,185,Bronx
+186,"0,02469639022","0,00003707294",Penn Station/Madison Sq West,186,Manhattan
+187,"0,12686843132","0,00042119576",Port Richmond,187,Staten Island
+188,"0,09779839684","0,00031300303",Prospect-Lefferts Gardens,188,Brooklyn
+189,"0,04867433065","0,00010142759",Prospect Heights,189,Brooklyn
+190,"0,07432946608","0,00027087367",Prospect Park,190,Brooklyn
+191,"0,13093263766","0,00068846060",Queens Village,191,Queens
+192,"0,11196461971","0,00037380802",Queensboro Hill,192,Queens
+193,"0,06552995848","0,00014559166",Queensbridge/Ravenswood,193,Queens
+194,"0,08179383535","0,00027348170",Randalls Island,194,Manhattan
+195,"0,13130824407","0,00080165195",Red Hook,195,Brooklyn
+196,"0,08324211063","0,00019747133",Rego Park,196,Queens
+197,"0,10856853223","0,00050468916",Richmond Hill,197,Queens
+198,"0,13409424276","0,00049980988",Ridgewood,198,Queens
+199,"0,07780850052","0,00028874755",Rikers Island,199,Bronx
+200,"0,11266173544","0,00074464317",Riverdale/North Riverdale/Fieldston,200,Bronx
+201,"0,13040411769","0,00061935075",Rockaway Park,201,Queens
+202,"0,06992157126","0,00010617540",Roosevelt Island,202,Manhattan
+203,"0,18993781587","0,00061512986",Rosedale,203,Queens
+204,"0,10191241831","0,00064138427",Rossville/Woodrow,204,Staten Island
+205,"0,14195338833","0,00076621651",Saint Albans,205,Queens
+206,"0,21275679339","0,00094439251",Saint George/New Brighton,206,Staten Island
+207,"0,02837568315","0,00004472308",Saint Michaels Cemetery/Woodside,207,Queens
+208,"0,21472100958","0,00202032599",Schuylerville/Edgewater Park,208,Bronx
+209,"0,03069531135","0,00003887034",Seaport,209,Manhattan
+210,"0,11485198337","0,00045315513",Sheepshead Bay,210,Brooklyn
+211,"0,02523450821","0,00003972920",SoHo,211,Manhattan
+212,"0,06712906534","0,00016127619",Soundview/Bruckner,212,Bronx
+213,"0,15995878382","0,00090407791",Soundview/Castle Hill,213,Bronx
+214,"0,13530031425","0,00081197652",South Beach/Dongan Hills,214,Staten Island
+215,"0,10355645363","0,00039564702",South Jamaica,215,Queens
+216,"0,11679755468","0,00081607665",South Ozone Park,216,Queens
+217,"0,05539052513","0,00011473327",South Williamsburg,217,Brooklyn
+218,"0,08370082810","0,00028129374",Springfield Gardens North,218,Queens
+219,"0,15512666968","0,00042817634",Springfield Gardens South,219,Queens
+220,"0,10601594327","0,00031303574",Spuyten Duyvil/Kingsbridge,220,Bronx
+221,"0,16621822085","0,00089011157",Stapleton,221,Staten Island
+222,"0,04838935280","0,00013026834",Starrett City,222,Brooklyn
+223,"0,16602192528","0,00076436070",Steinway,223,Queens
+224,"0,04402044628","0,00009847870",Stuy Town/Peter Cooper Village,224,Manhattan
+225,"0,08879920733","0,00031083540",Stuyvesant Heights,225,Brooklyn
+226,"0,16895776204","0,00076194415",Sunnyside,226,Queens
+227,"0,08283015708","0,00026831653",Sunset Park East,227,Brooklyn
+228,"0,17768517771","0,00099341478",Sunset Park West,228,Brooklyn
+229,"0,04252529001","0,00009470582",Sutton Place/Turtle Bay North,229,Manhattan
+230,"0,03102830968","0,00005609145",Times Sq/Theatre District,230,Manhattan
+231,"0,06342011656","0,00016692975",TriBeCa/Civic Center,231,Manhattan
+232,"0,06147090853","0,00021604997",Two Bridges/Seward Park,232,Manhattan
+233,"0,04803591829","0,00011618809",UN/Turtle Bay South,233,Manhattan
+234,"0,03607219950","0,00007310544",Union Sq,234,Manhattan
+235,"0,07616684265","0,00021284455",University Heights/Morris Heights,235,Bronx
+236,"0,04425192231","0,00010286435",Upper East Side North,236,Manhattan
+237,"0,04221260034","0,00009598732",Upper East Side South,237,Manhattan
+238,"0,06010931140","0,00018476369",Upper West Side North,238,Manhattan
+239,"0,06362611530","0,00020471544",Upper West Side South,239,Manhattan
+240,"0,14606976438","0,00072213092",Van Cortlandt Park,240,Bronx
+241,"0,06876457776","0,00025467698",Van Cortlandt Village,241,Bronx
+242,"0,13813644643","0,00036007245",Van Nest/Morris Park,242,Bronx
+243,"0,09433149994","0,00043837734",Washington Heights North,243,Manhattan
+244,"0,08056860446","0,00035970275",Washington Heights South,244,Manhattan
+245,"0,09598305966","0,00046617541",West Brighton,245,Staten Island
+246,"0,06946719374","0,00028129833",West Chelsea/Hudson Yards,246,Manhattan
+247,"0,09296785823","0,00020561716",West Concourse,247,Bronx
+248,"0,05691911677","0,00014959277",West Farms/Bronx River,248,Bronx
+249,"0,03638434365","0,00007221560",West Village,249,Manhattan
+250,"0,07962634655","0,00024097585",Westchester Village/Unionport,250,Bronx
+251,"0,13771116110","0,00062575498",Westerleigh,251,Staten Island
+252,"0,15800437356","0,00102526406",Whitestone,252,Queens
+253,"0,03605149982","0,00007833958",Willets Point,253,Queens
+254,"0,08588637549","0,00036004022",Williamsbridge/Olinville,254,Bronx
+255,"0,06238419977","0,00017230918",Williamsburg (North Side),255,Brooklyn
+256,"0,06791496696","0,00016861110",Williamsburg (South Side),256,Brooklyn
+257,"0,05866902598","0,00013890947",Windsor Terrace,257,Brooklyn
+258,"0,08901337877","0,00036620962",Woodhaven,258,Queens
+259,"0,12675030519","0,00039455249",Woodlawn/Wakefield,259,Bronx
+260,"0,13351415464","0,00042234533",Woodside,260,Queens
+261,"0,02712045636","0,00003434232",World Trade Center,261,Manhattan
+262,"0,04906362315","0,00012233027",Yorkville East,262,Manhattan
+263,"0,03701662530","0,00006576977",Yorkville West,263,Manhattan

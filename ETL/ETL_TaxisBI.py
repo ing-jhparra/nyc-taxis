@@ -4,6 +4,14 @@ import numpy as np
 import os
 import glob
 
+'''
+# Ejemplo de uso:
+carpeta = '../Datasets/Henry/' # Carpeta donde estan los archivos 
+archivo_base = 'yellow_tripdata_2023-*.parquet'  # Patrón para los archivos a procesar
+archivo_consolidado = './datos_limpios/consolidado.parquet'  # ruta y nombre del Archivo consolidado
+
+'''
+
 def EtlTaxisTrip(carpeta, archivo_base, archivo_consolidado, sample_size=100000):
     # Cargar informacion de las zonas 
     taxis_zones= pd.read_csv('../Datasets/taxi_zones.csv', sep=';')
@@ -65,11 +73,3 @@ def EtlTaxisTrip(carpeta, archivo_base, archivo_consolidado, sample_size=100000)
     # Guardar el DataFrame consolidado actualizado
     df_consolidado.to_parquet(archivo_consolidado, index=False)
     return df_consolidado
-
-'''
-# Ejemplo de uso:
-carpeta = '../Datasets/Henry/' # Carpeta donde estan los archivos 
-archivo_base = 'yellow_tripdata_2023-*.parquet'  # Patrón para los archivos a procesar
-archivo_consolidado = './datos_limpios/consolidado.parquet'  # ruta y nombre del Archivo consolidado
-
-'''

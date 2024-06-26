@@ -1,0 +1,673 @@
+Model year,Make,Model,Vehicle class,Combined (kWh/100 km),Range (km),CO2 emissions (g/km),CO2 rating ,Smog rating,Recharge time (h)
+2012,Mitsubishi,i-MiEV,Subcompact,18.7,100,0,0,10.0,7.0
+2012,Nissan,LEAF,Mid-size,21.1,117,0,0,10.0,7.0
+2013,Ford,Focus Electric,Compact,20.0,122,0,0,10.0,4.0
+2013,Mitsubishi,i-MiEV,Subcompact,18.7,100,0,0,10.0,7.0
+2013,Nissan,LEAF,Mid-size,21.1,117,0,0,10.0,7.0
+2013,smart,fortwo electric drive cabriolet,Two-seater,19.6,109,0,0,10.0,8.0
+2013,smart,fortwo electric drive coupe,Two-seater,19.6,109,0,0,10.0,8.0
+2013,Tesla,Model S (40 kWh),Full-size,22.2,224,0,0,10.0,6.0
+2013,Tesla,Model S (60 kWh),Full-size,21.9,335,0,0,10.0,10.0
+2013,Tesla,Model S (85 kWh),Full-size,23.6,426,0,0,10.0,12.0
+2013,Tesla,Model S Performance,Full-size,23.6,426,0,0,10.0,12.0
+2014,Chevrolet,Spark EV,Subcompact,17.8,131,0,0,10.0,7.0
+2014,Ford,Focus Electric,Compact,20.0,122,0,0,10.0,4.0
+2014,Mitsubishi,i-MiEV,Subcompact,18.7,100,0,0,10.0,7.0
+2014,Nissan,LEAF,Mid-size,18.4,135,0,0,10.0,5.0
+2014,smart,fortwo electric drive cabriolet,Two-seater,19.6,109,0,0,10.0,8.0
+2014,smart,fortwo electric drive coupe,Two-seater,19.6,109,0,0,10.0,8.0
+2014,Tesla,Model S (60 kWh),Full-size,21.9,335,0,0,10.0,10.0
+2014,Tesla,Model S (85 kWh),Full-size,23.6,426,0,0,10.0,12.0
+2014,Tesla,Model S Performance,Full-size,23.6,426,0,0,10.0,12.0
+2015,BMW,i3,Subcompact,16.8,130,0,0,10.0,4.0
+2015,Chevrolet,Spark EV,Subcompact,17.8,131,0,0,10.0,7.0
+2015,Ford,Focus Electric,Compact,20.0,122,0,0,10.0,4.0
+2015,Kia,Soul EV,Station wagon: Small,19.9,149,0,0,10.0,4.0
+2015,Mitsubishi,i-MiEV,Subcompact,18.7,100,0,0,10.0,7.0
+2015,Nissan,LEAF,Mid-size,18.4,135,0,0,10.0,5.0
+2015,smart,fortwo electric drive cabriolet,Two-seater,19.6,109,0,0,10.0,8.0
+2015,smart,fortwo electric drive coupe,Two-seater,19.6,109,0,0,10.0,8.0
+2015,Tesla,Model S (60 kWh),Full-size,21.9,335,0,0,10.0,10.0
+2015,Tesla,Model S (70 kWh),Full-size,23.6,377,0,0,10.0,12.0
+2015,Tesla,Model S (85/90 kWh),Full-size,23.6,426,0,0,10.0,12.0
+2015,Tesla,Model S 70D,Full-size,20.7,386,0,0,10.0,12.0
+2015,Tesla,Model S 85D/90D,Full-size,21.0,435,0,0,10.0,12.0
+2015,Tesla,Model S P85D/P90D,Full-size,22.5,407,0,0,10.0,12.0
+2016,BMW,i3,Subcompact,16.8,130,0,0,10.0,4.0
+2016,Chevrolet,Spark EV,Subcompact,17.8,131,0,0,10.0,7.0
+2016,Ford,Focus Electric,Compact,20.0,122,0,0,10.0,4.0
+2016,Kia,Soul EV,Station wagon: Small,19.9,149,0,0,10.0,4.0
+2016,Mitsubishi,i-MiEV,Subcompact,18.7,100,0,0,10.0,7.0
+2016,Nissan,LEAF (24 kWh),Mid-size,18.4,135,0,0,10.0,5.0
+2016,Nissan,LEAF (30 kWh),Mid-size,18.6,172,0,0,10.0,6.0
+2016,smart,fortwo electric drive cabriolet,Two-seater,19.6,109,0,0,10.0,8.0
+2016,smart,fortwo electric drive coupe,Two-seater,19.6,109,0,0,10.0,8.0
+2016,Tesla,Model S (60 kWh pre- 6/16),Full-size,21.9,335,0,0,10.0,10.0
+2016,Tesla,Model S (60 kWh),Full-size,21.1,338,0,0,10.0,10.0
+2016,Tesla,Model S (70 kWh),Full-size,23.6,377,0,0,10.0,12.0
+2016,Tesla,Model S (75 kWh),Full-size,21.3,401,0,0,10.0,12.0
+2016,Tesla,Model S (85/90 kWh),Full-size,23.6,426,0,0,10.0,12.0
+2016,Tesla,Model S 60D,Full-size,20.2,351,0,0,10.0,10.0
+2016,Tesla,Model S 70D,Full-size,20.7,386,0,0,10.0,12.0
+2016,Tesla,Model S 75D,Full-size,20.3,417,0,0,10.0,12.0
+2016,Tesla,Model S 85D/90D,Full-size,21.0,435,0,0,10.0,12.0
+2016,Tesla,Model S 90D (Refresh),Full-size,20.3,473,0,0,10.0,12.0
+2016,Tesla,Model S P85D/P90D,Full-size,22.5,407,0,0,10.0,12.0
+2016,Tesla,Model S P90D (Refresh),Full-size,22.1,435,0,0,10.0,12.0
+2016,Tesla,Model S P100D,Full-size,21.5,507,0,0,10.0,12.0
+2016,Tesla ,Model X 60D,Sport utility vehicle: Standard,22.6,322,0,0,10.0,10.0
+2016,Tesla,Model X 75D,Sport utility vehicle: Standard,22.5,383,0,0,10.0,12.0
+2016,Tesla,Model X 90D,Sport utility vehicle: Standard,22.7,414,0,0,10.0,12.0
+2016,Tesla,Model X P90D,Sport utility vehicle: Standard,23.5,402,0,0,10.0,12.0
+2016,Tesla,Model X P100D,Sport utility vehicle: Standard,24.4,465,0,0,10.0,12.0
+2017,BMW,i3 (60 Ah),Subcompact,16.8,130,0,0,10.0,4.0
+2017,BMW,i3 (94 Ah),Subcompact,17.8,183,0,0,10.0,5.0
+2017,Chevrolet,Bolt EV,Station wagon: Small,17.6,383,0,0,10.0,9.3
+2017,Ford,Focus Electric,Compact,19.6,185,0,0,10.0,5.5
+2017,Hyundai,IONIQ Electric,Mid-size,15.5,200,0,0,10.0,4.0
+2017,Kia,Soul EV,Station wagon: Small,19.9,150,0,0,10.0,4.0
+2017,Mitsubishi,i-MiEV,Subcompact,18.7,100,0,0,10.0,7.0
+2017,Nissan,LEAF,Mid-size,18.6,172,0,0,10.0,6.0
+2017,Tesla,Model S (60 kWh),Full-size,21.1,338,0,0,10.0,10.0
+2017,Tesla,Model S (75 kWh),Full-size,21.3,401,0,0,10.0,12.0
+2017,Tesla,Model S 60D,Full-size,20.2,351,0,0,10.0,10.0
+2017,Tesla,Model S 75D,Full-size,20.3,417,0,0,10.0,12.0
+2017,Tesla,Model S 90D,Full-size,20.2,473,0,0,10.0,12.0
+2017,Tesla,Model S 100D,Full-size,20.6,539,0,0,10.0,12.0
+2017,Tesla,Model S P90D,Full-size,22.0,435,0,0,10.0,12.0
+2017,Tesla ,Model S P100D,Full-size,21.5,507,0,0,10.0,12.0
+2017,Tesla ,Model X 60D,Sport utility vehicle: Standard,22.6,322,0,0,10.0,10.0
+2017,Tesla ,Model X 75D,Sport utility vehicle: Standard,22.5,383,0,0,10.0,12.0
+2017,Tesla ,Model X 90D,Sport utility vehicle: Standard,22.7,414,0,0,10.0,12.0
+2017,Tesla ,Model X 100D,Sport utility vehicle: Standard,24.0,475,0,0,10.0,12.0
+2017,Tesla ,Model X P90D,Sport utility vehicle: Standard,23.5,402,0,0,10.0,12.0
+2017,Tesla ,Model X P100D,Sport utility vehicle: Standard,24.4,465,0,0,10.0,12.0
+2017,Volkswagen,e-Golf,Compact,17.4,201,0,0,10.0,5.3
+2018,BMW,i3,Subcompact,17.8,183,0,0,10.0,5.0
+2018,BMW,i3s,Subcompact,18.9,172,0,0,10.0,5.0
+2018,Chevrolet,Bolt EV,Station wagon: Small,17.6,383,0,0,10.0,9.3
+2018,Ford,Focus Electric,Compact,19.6,185,0,0,10.0,5.5
+2018,Hyundai,IONIQ Electric,Mid-size,15.5,200,0,0,10.0,4.0
+2018,Kia,Soul EV,Station wagon: Small,19.3,179,0,0,10.0,5.0
+2018,Nissan,LEAF,Mid-size,18.8,242,0,0,10.0,8.0
+2018,smart,fortwo electric drive cabriolet,Two-seater,20.7,92,0,0,10.0,3.0
+2018,smart,fortwo electric drive coupe,Two-seater,19.3,93,0,0,10.0,3.0
+2018,Tesla,Model 3 Mid Range,Mid-size,17.1,418,0,0,10.0,10.0
+2018,Tesla,Model 3 Long Range,Mid-size,16.1,499,0,0,10.0,10.0
+2018,Tesla,Model 3 Long Range AWD,Mid-size,18.0,499,0,0,10.0,10.0
+2018,Tesla,Model 3 Long Range AWD Performance,Mid-size,18.0,499,0,0,10.0,10.0
+2018,Tesla,Model S (75 kWh),Full-size,21.3,401,0,0,10.0,12.0
+2018,Tesla,Model S 75D,Full-size,20.3,417,0,0,10.0,12.0
+2018,Tesla,Model S 100D,Full-size,20.6,539,0,0,10.0,12.0
+2018,Tesla,Model S P100D,Full-size,21.5,507,0,0,10.0,12.0
+2018,Tesla,Model X 75D,Sport utility vehicle: Standard,22.5,383,0,0,10.0,12.0
+2018,Tesla,Model X 100D,Sport utility vehicle: Standard,24.0,475,0,0,10.0,12.0
+2018,Tesla,Model X P100D,Sport utility vehicle: Standard,24.6,465,0,0,10.0,12.0
+2018,Volkswagen,e-Golf,Compact,17.4,201,0,0,10.0,5.3
+2019,Audi,e-tron 55 quattro,Sport utility vehicle: Standard,28.3,329,0,0,10.0,10.0
+2019,BMW,i3 (120 Ah),Subcompact,18.5,246,0,0,10.0,7.0
+2019,BMW,i3s (120 Ah),Subcompact,18.5,246,0,0,10.0,7.0
+2019,Chevrolet,Bolt EV,Station wagon: Small,17.6,383,0,0,10.0,9.3
+2019,Hyundai,IONIQ Electric,Mid-size,15.5,200,0,0,10.0,4.0
+2019,Hyundai,Kona Electric,Sport utility vehicle: Small,17.4,415,0,0,10.0,9.0
+2019,Jaguar,I-PACE,Sport utility vehicle: Small,27.5,377,0,0,10.0,13.0
+2019,Kia,Niro EV,Station wagon: Small,18.6,385,0,0,10.0,9.5
+2019,Kia,Soul EV,Station wagon: Small,19.3,179,0,0,10.0,5.0
+2019,Nissan,LEAF (40 kWh),Mid-size,18.7,243,0,0,10.0,8.0
+2019,Nissan,LEAF S PLUS,Mid-size,19.5,363,0,0,10.0,11.0
+2019,Nissan,LEAF SV/SL PLUS,Mid-size,20.0,349,0,0,10.0,11.0
+2019,smart EQ,fortwo cabriolet,Two-seater,20.7,92,0,0,10.0,3.0
+2019,smart EQ,fortwo coupe,Two-seater,19.3,93,0,0,10.0,3.0
+2019,Tesla,Model 3 Standard Range,Mid-size,15.6,151,0,0,10.0,3.7
+2019,Tesla,Model 3 Standard Range Plus,Mid-size,15.8,386,0,0,10.0,8.5
+2019,Tesla,Model 3 Mid Range,Mid-size,17.1,425,0,0,10.0,10.0
+2019,Tesla,Model 3 Long Range,Mid-size,16.1,499,0,0,10.0,10.0
+2019,Tesla,Model 3 Long Range AWD,Mid-size,18.0,499,0,0,10.0,10.0
+2019,Tesla,Model 3 Long Range AWD Performance,Mid-size,18.0,499,0,0,10.0,10.0
+2019,Tesla,Model S 75D,Full-size,20.3,417,0,0,10.0,12.0
+2019,Tesla,Model S 100D,Full-size,20.6,539,0,0,10.0,12.0
+2019,Tesla,Model S P100D,Full-size,21.5,507,0,0,10.0,12.0
+2019,Tesla,Model S Standard Range,Full-size,19.2,459,0,0,10.0,9.0
+2019,Tesla,Model S Long Range,Full-size,18.8,595,0,0,10.0,12.0
+2019,Tesla,"Model S Performance (19"" Wheels)",Full-size,20.2,555,0,0,10.0,12.0
+2019,Tesla,"Model S Performance (21"" Wheels)",Full-size,21.6,523,0,0,10.0,12.0
+2019,Tesla,Model X 75D,Sport utility vehicle: Standard,22.5,383,0,0,10.0,12.0
+2019,Tesla,Model X 100D,Sport utility vehicle: Standard,24.0,475,0,0,10.0,12.0
+2019,Tesla,Model X P100D,Sport utility vehicle: Standard,24.6,465,0,0,10.0,12.0
+2019,Tesla,Model X Standard Range,Sport utility vehicle: Standard,20.7,410,0,0,10.0,9.0
+2019,Tesla,Model X Long Range,Sport utility vehicle: Standard,21.8,523,0,0,10.0,12.0
+2019,Tesla,"Model X Performance (20"" Wheels)",Sport utility vehicle: Standard,23.3,491,0,0,10.0,12.0
+2019,Tesla,"Model X Performance (22"" Wheels)",Sport utility vehicle: Standard,26.6,435,0,0,10.0,12.0
+2019,Volkswagen,e-Golf,Compact,17.4,201,0,0,10.0,5.3
+2020,Audi,e-tron Sportback 55 quattro,Sport utility vehicle: Standard,27.3,351,0,0,10.0,10.0
+2020,BMW,i3 (120 Ah),Subcompact,18.5,246,0,0,10.0,7.0
+2020,BMW,i3s (120 Ah),Subcompact,18.5,246,0,0,10.0,7.0
+2020,Chevrolet,Bolt EV,Station wagon: Small,17.8,417,0,0,10.0,10.0
+2020,Hyundai,IONIQ Electric,Mid-size,15.8,274,0,0,10.0,5.8
+2020,Hyundai,Kona Electric,Sport utility vehicle: Small,17.4,415,0,0,10.0,9.0
+2020,Jaguar,I-PACE,Sport utility vehicle: Small,27.5,377,0,0,10.0,13.0
+2020,Kia,Niro EV,Station wagon: Small,18.6,385,0,0,10.0,9.5
+2020,Kia,Soul EV (120 Ah),Station wagon: Small,18.0,248,0,0,10.0,6.0
+2020,Kia,Soul EV (180 Ah),Station wagon: Small,18.6,383,0,0,10.0,9.5
+2020,MINI,Cooper SE 3 Door,Subcompact,19.4,177,0,0,10.0,4.0
+2020,Nissan,LEAF (40 kWh),Mid-size,18.9,240,0,0,10.0,8.0
+2020,Nissan,LEAF S PLUS,Mid-size,19.5,363,0,0,10.0,11.0
+2020,Nissan,LEAF SV/SL PLUS,Mid-size,20.0,349,0,0,10.0,11.0
+2020,Porsche,Taycan 4S (Performance Battery Plus),Compact,30.3,327,0,0,10.0,10.5
+2020,Porsche,Taycan Turbo,Compact,30.2,323,0,0,10.0,10.0
+2020,Porsche,Taycan Turbo S,Compact,31.0,309,0,0,10.0,10.5
+2020,Tesla,Model 3 Standard Range,Mid-size,15.6,151,0,0,10.0,3.7
+2020,Tesla,Model 3 Standard Range Plus,Mid-size,14.9,402,0,0,10.0,8.5
+2020,Tesla,Model 3 Mid Range,Mid-size,17.1,425,0,0,10.0,10.0
+2020,Tesla,Model 3 Long Range,Mid-size,16.1,531,0,0,10.0,10.0
+2020,Tesla,Model 3 Long Range AWD,Mid-size,17.4,518,0,0,10.0,10.0
+2020,Tesla,"Model 3 Long Range AWD Performance (18"" Wheels)",Mid-size,17.4,518,0,0,10.0,10.0
+2020,Tesla,"Model 3 Long Range AWD Performance (19"" Wheels)",Mid-size,18.1,489,0,0,10.0,10.0
+2020,Tesla,"Model 3 Long Range AWD Performance (20"" Wheels)",Mid-size,18.6,481,0,0,10.0,10.0
+2020,Tesla,Model S Standard Range,Full-size,19.2,462,0,0,10.0,9.0
+2020,Tesla,Model S Long Range,Full-size,18.8,600,0,0,10.0,12.0
+2020,Tesla,Model S Long Range Plus (pre-15/6/20),Full-size,18.0,629,0,0,10.0,12.0
+2020,Tesla,Model S Long Range Plus,Full-size,17.9,647,0,0,10.0,12.0
+2020,Tesla,"Model S Performance (19"" Wheels)",Full-size,20.2,560,0,0,10.0,12.0
+2020,Tesla,"Model S Performance (21"" Wheels)",Full-size,21.6,525,0,0,10.0,12.0
+2020,Tesla,Model X Standard Range,Sport utility vehicle: Standard,20.7,415,0,0,10.0,9.0
+2020,Tesla,Model X Long Range,Sport utility vehicle: Standard,21.8,528,0,0,10.0,12.0
+2020,Tesla,Model X Long Range Plus,Sport utility vehicle: Standard,20.0,565,0,0,10.0,12.0
+2020,Tesla,"Model X Performance (20"" Wheels)",Sport utility vehicle: Standard,23.3,491,0,0,10.0,12.0
+2020,Tesla,"Model X Performance (22"" Wheels)",Sport utility vehicle: Standard,26.6,438,0,0,10.0,12.0
+2020,Tesla,Model Y Long Range AWD,Sport utility vehicle: Small,17.3,509,0,0,10.0,10.0
+2020,Tesla,Model Y Performance,Sport utility vehicle: Small,17.4,507,0,0,10.0,10.0
+2020,Tesla,"Model Y Performance (21"" Wheels)",Sport utility vehicle: Small,18.9,468,0,0,10.0,10.0
+2020,Volkswagen,e-Golf,Compact,18.6,198,0,0,10.0,5.3
+2021,Audi,e-tron 55 quattro,Sport utility vehicle: Standard,27.0,357,0,0,10.0,10.0
+2021,Audi,e-tron Sportback 55 quattro,Sport utility vehicle: Standard,27.3,351,0,0,10.0,10.0
+2021,BMW,i3 (120 Ah),Subcompact,18.5,246,0,0,10.0,7.0
+2021,BMW,i3s (120 Ah),Subcompact,18.5,246,0,0,10.0,7.0
+2021,Chevrolet,Bolt EV,Station wagon: Small,17.8,417,0,0,10.0,10.0
+2021,Ford,Mustang Mach-E Standard Range,Station wagon: Small,21.0,370,0,0,10.0,8.8
+2021,Ford,Mustang Mach-E Standard Range AWD,Station wagon: Small,22.6,340,0,0,10.0,8.5
+2021,Ford,"Mustang Mach-E Extended Range (19"" Wheels)",Station wagon: Small,21.5,483,0,0,10.0,10.9
+2021,Ford,Mustang Mach-E Extended Range AWD,Station wagon: Small,23.2,435,0,0,10.0,10.7
+2021,Ford,Mustang Mach-E California Route 1,Station wagon: Small,20.7,491,0,0,10.0,11.4
+2021,Ford,Mustang Mach-E GT Performance Edition,Station wagon: Small,25.6,418,0,0,10.0,10.1
+2021,Hyundai,IONIQ Electric,Mid-size,15.8,274,0,0,10.0,5.8
+2021,Hyundai,Kona Electric,Sport utility vehicle: Small,17.4,415,0,0,10.0,9.0
+2021,Kia,Niro EV,Station wagon: Small,18.6,385,0,0,10.0,9.5
+2021,Kia,Soul EV (120 Ah),Station wagon: Small,17.8,248,0,0,10.0,6.0
+2021,Kia,Soul EV (180 Ah),Station wagon: Small,18.7,383,0,0,10.0,9.5
+2021,MINI,Cooper SE 3 Door,Subcompact,19.4,177,0,0,10.0,4.0
+2021,Nissan,LEAF (40 kWh),Mid-size,18.9,240,0,0,10.0,8.0
+2021,Nissan,LEAF S PLUS,Mid-size,19.5,363,0,0,10.0,11.0
+2021,Nissan,LEAF SV/SL PLUS,Mid-size,20.0,349,0,0,10.0,11.0
+2021,Polestar,2,Mid-size,22.8,375,0,0,10.0,8.0
+2021,Porsche,Taycan 4 Cross Turismo,Mid-size,27.4,346,0,0,10.0,10.5
+2021,Porsche,Taycan 4S (Performance Battery),Compact,26.4,320,0,0,10.0,9.5
+2021,Porsche,Taycan 4S (Performance Battery Plus),Compact,27.3,365,0,0,10.0,10.5
+2021,Porsche,Taycan 4S Cross Turismo,Mid-size,28.0,346,0,0,10.0,10.5
+2021,Porsche,Taycan Turbo,Compact,28.6,341,0,0,10.0,10.5
+2021,Porsche,Taycan Turbo Cross Turismo,Mid-size,29.1,328,0,0,10.0,10.5
+2021,Porsche,Taycan Turbo S,Compact,29.9,323,0,0,10.0,10.5
+2021,Porsche,Taycan Turbo S Cross Turismo,Mid-size,28.6,325,0,0,10.0,10.5
+2021,Tesla,Model 3 Standard Range,Mid-size,15.2,151,0,0,10.0,3.7
+2021,Tesla,Model 3 Standard Range Plus,Mid-size,14.8,423,0,0,10.0,8.5
+2021,Tesla,Model 3 Long Range AWD,Mid-size,15.6,568,0,0,10.0,10.0
+2021,Tesla,Model 3 Performance,Mid-size,18.6,507,0,0,10.0,10.0
+2021,Tesla,Model S Long Range,Full-size,17.5,652,0,0,10.0,15.0
+2021,Tesla,Model S Long Range Plus,Full-size,18.6,629,0,0,10.0,12.0
+2021,Tesla,"Model S Performance (19"" Wheels)",Full-size,19.0,623,0,0,10.0,12.0
+2021,Tesla,"Model S Performance (21"" Wheels)",Full-size,21.9,538,0,0,10.0,12.0
+2021,Tesla,"Model S Plaid (19"" Wheels)",Full-size,18.1,637,0,0,10.0,15.0
+2021,Tesla,"Model S Plaid (21"" Wheels)",Full-size,20.8,560,0,0,10.0,15.0
+2021,Tesla,Model X Long Range,Sport utility vehicle: Standard,20.6,560,0,0,10.0,14.0
+2021,Tesla,Model X Long Range Plus,Sport utility vehicle: Standard,19.9,597,0,0,10.0,12.0
+2021,Tesla,"Model X Performance (20"" Wheels)",Sport utility vehicle: Standard,21.5,549,0,0,10.0,12.0
+2021,Tesla,"Model X Performance (22"" Wheels)",Sport utility vehicle: Standard,24.4,483,0,0,10.0,12.0
+2021,Tesla,Model Y Standard Range,Sport utility vehicle: Small,16.2,393,0,0,10.0,8.0
+2021,Tesla,Model Y Long Range AWD,Sport utility vehicle: Small,16.8,525,0,0,10.0,10.0
+2021,Tesla,Model Y Performance,Sport utility vehicle: Small,18.9,488,0,0,10.0,10.0
+2021,Volkswagen,ID.4 Pro,Sport utility vehicle: Small,21.7,400,0,0,10.0,7.5
+2021,Volkswagen,ID.4 AWD Pro,Sport utility vehicle: Small,22.5,386,0,0,10.0,7.5
+2021,Volvo,XC40 Recharge,Sport utility vehicle: Small,26.6,335,0,0,10.0,8.0
+2022,Audi,e-tron 55 quattro,Sport utility vehicle: Standard,27.0,357,0,0,10.0,10.0
+2022,Audi,e-tron Sportback 55 quattro,Sport utility vehicle: Standard,27.3,351,0,0,10.0,10.0
+2022,Audi,"e-tron S Sportback quattro (20"" Wheels)",Sport utility vehicle: Standard,27.9,341,0,0,10.0,10.0
+2022,Audi,"e-tron S Sportback quattro (21"" or 22"" Wheels)",Sport utility vehicle: Standard,32.4,298,0,0,10.0,10.0
+2022,Audi,e-tron GT,Compact,25.6,383,0,0,10.0,10.5
+2022,Audi,RS e-tron GT,Compact,26.0,373,0,0,10.0,10.5
+2022,Audi,Q4 50 e-tron quattro,Sport utility vehicle: Small,22.1,388,0,0,10.0,9.0
+2022,Audi,Q4 50 e-tron Sportback quattro,Sport utility vehicle: Small,22.1,388,0,0,10.0,9.0
+2022,BMW,"i4 eDrive40 (18"" Wheels)",Subcompact,19.2,484,0,0,10.0,10.0
+2022,BMW,"i4 eDrive40 (19"" Wheels)",Subcompact,21.1,454,0,0,10.0,10.0
+2022,BMW,"i4 M50 xDrive (19"" Wheels)",Subcompact,21.9,435,0,0,10.0,10.0
+2022,BMW,"i4 M50 xDrive (20"" Wheels)",Subcompact,26.3,365,0,0,10.0,10.0
+2022,BMW,"iX xDrive50 (20"" Wheels)",Sport utility vehicle: Standard,24.2,521,0,0,10.0,12.0
+2022,BMW,"iX xDrive50 (21"" Wheels)",Sport utility vehicle: Standard,25.3,491,0,0,10.0,12.0
+2022,BMW,"iX xDrive50 (22"" Wheels)",Sport utility vehicle: Standard,24.4,507,0,0,10.0,12.0
+2022,Chevrolet,Bolt EUV,Station wagon: Small,18.3,397,0,0,10.0,7.5
+2022,Chevrolet,Bolt EV,Station wagon: Small,17.5,417,0,0,10.0,7.5
+2022,Ford,F-150 Lightning Standard Range,Pickup truck: Standard,30.6,370,0,0,10.0,11.8
+2022,Ford,F-150 Lightning Extended Range,Pickup truck: Standard,29.8,515,0,0,10.0,10.1
+2022,Ford,F-150 Lightning Platinum,Pickup truck: Standard,31.5,483,0,0,10.0,9.3
+2022,Ford,Mustang Mach-E Standard Range,Sport utility vehicle: Small,20.3,397,0,0,10.0,8.1
+2022,Ford,Mustang Mach-E Standard Range AWD,Sport utility vehicle: Small,22.6,360,0,0,10.0,8.0
+2022,Ford,Mustang Mach-E Extended Range,Sport utility vehicle: Small,21.5,488,0,0,10.0,10.9
+2022,Ford,Mustang Mach-E Extended Range AWD,Sport utility vehicle: Small,23.1,446,0,0,10.0,10.7
+2022,Ford,Mustang Mach-E California Route 1,Sport utility vehicle: Small,20.7,505,0,0,10.0,11.4
+2022,Ford,Mustang Mach-E California Route 1 AWD,Sport utility vehicle: Small,21.3,502,0,0,10.0,10.1
+2022,Ford,Mustang Mach-E GT Performance Edition,Sport utility vehicle: Small,25.6,418,0,0,10.0,10.1
+2022,Hyundai,IONIQ 5 Standard Range,Full-size,19.3,354,0,0,10.0,6.3
+2022,Hyundai,IONIQ 5 Long Range,Full-size,18.6,488,0,0,10.0,8.5
+2022,Hyundai,IONIQ 5 Long Range AWD,Full-size,21.3,414,0,0,10.0,8.5
+2022,Hyundai,Kona Electric,Sport utility vehicle: Small,17.4,415,0,0,10.0,9.5
+2022,Jaguar,I-PACE,Sport utility vehicle: Small,28.1,357,0,0,10.0,13.0
+2022,Kia,EV6 Standard Range,Station wagon: Small,18.0,373,0,0,10.0,6.3
+2022,Kia,EV6 Long Range,Station wagon: Small,18.0,499,0,0,10.0,8.7
+2022,Kia,EV6 Long Range AWD,Station wagon: Small,19.9,441,0,0,10.0,8.4
+2022,Kia,Niro EV,Station wagon: Small,18.6,385,0,0,10.0,9.5
+2022,Kia,Soul EV (120 Ah),Station wagon: Small,17.8,248,0,0,10.0,6.0
+2022,Kia,Soul EV (180 Ah),Station wagon: Small,18.7,383,0,0,10.0,9.5
+2022,Lucid,"Air Dream P AWD (19"" Wheels)",Full-size,18.1,758,0,0,10.0,13.0
+2022,Lucid,"Air Dream P AWD (21"" Wheels)",Full-size,18.9,726,0,0,10.0,13.0
+2022,Lucid,"Air Dream R AWD (19"" Wheels)",Full-size,16.7,837,0,0,10.0,13.0
+2022,Lucid,"Air Dream R AWD (21"" Wheels)",Full-size,18.1,774,0,0,10.0,13.0
+2022,Lucid,"Air Grand Touring AWD (19"" Wheels)",Full-size,16.0,830,0,0,10.0,13.0
+2022,Lucid,"Air Grand Touring AWD (21"" Wheels)",Full-size,17.3,755,0,0,10.0,13.0
+2022,Mazda,MX-30,Mid-size,22.8,161,0,0,10.0,5.3
+2022,Mercedes-Benz,EQB 350 4MATIC SUV,Sport utility vehicle: Small,21.7,365,0,0,10.0,7.5
+2022,Mercedes-Benz,EQS 580 4MATIC Sedan,Full-size,22.4,547,0,0,10.0,11.25
+2022,MINI,Cooper SE 3 Door,Subcompact,19.1,183,0,0,10.0,4.0
+2022,Nissan,LEAF (40 kWh),Mid-size,18.9,240,0,0,10.0,8.0
+2022,Nissan,LEAF S PLUS,Mid-size,19.5,363,0,0,10.0,11.0
+2022,Nissan,LEAF SV/SL PLUS,Mid-size,20.0,349,0,0,10.0,11.0
+2022,Polestar,2 Single Motor,Mid-size,19.6,435,0,0,10.0,8.0
+2022,Polestar,2 Dual Motor,Mid-size,23.5,401,0,0,10.0,8.0
+2022,Porsche,Taycan 4 Cross Turismo,Mid-size,27.4,346,0,0,10.0,10.5
+2022,Porsche,Taycan 4S (Performance Battery),Compact,26.4,320,0,0,10.0,9.5
+2022,Porsche,Taycan 4S (Performance Battery Plus),Compact,27.3,365,0,0,10.0,10.5
+2022,Porsche,Taycan 4S Cross Turismo,Mid-size,28.0,346,0,0,10.0,10.5
+2022,Porsche,Taycan GTS,Compact,25.3,396,0,0,10.0,10.5
+2022,Porsche,Taycan GTS Sport Turismo,Compact,26.2,375,0,0,10.0,10.5
+2022,Porsche,Taycan Turbo,Compact,28.6,341,0,0,10.0,10.5
+2022,Porsche,Taycan Turbo Cross Turismo,Mid-size,29.1,328,0,0,10.0,10.5
+2022,Porsche,Taycan Turbo S,Compact,29.9,323,0,0,10.0,10.5
+2022,Porsche,Taycan Turbo S Cross Turismo,Mid-size,28.6,325,0,0,10.0,10.5
+2022,Rivian,R1S,Sport utility vehicle: Standard,30.2,509,0,0,10.0,13.0
+2022,Rivian,R1T,Pickup truck: Standard,29.9,505,0,0,10.0,13.0
+2022,Tesla,Model 3 Standard Range,Mid-size,18.6,146,0,0,10.0,3.7
+2022,Tesla,Model 3 RWD,Mid-size,15.8,438,0,0,10.0,8.5
+2022,Tesla,Model 3 Long Range AWD,Mid-size,16.0,576,0,0,10.0,10.0
+2022,Tesla,Model 3 Performance,Mid-size,18.6,507,0,0,10.0,10.0
+2022,Tesla,Model S,Full-size,17.5,652,0,0,10.0,15.0
+2022,Tesla,"Model S Plaid (19"" Wheels)",Full-size,18.1,637,0,0,10.0,15.0
+2022,Tesla,"Model S Plaid (21"" Wheels)",Full-size,20.8,560,0,0,10.0,15.0
+2022,Tesla,Model X,Sport utility vehicle: Standard,20.6,560,0,0,10.0,14.0
+2022,Tesla,"Model X Plaid (20"" Wheels)",Sport utility vehicle: Standard,21.4,536,0,0,10.0,14.0
+2022,Tesla,"Model X Plaid (22"" Wheels)",Sport utility vehicle: Standard,22.9,500,0,0,10.0,14.0
+2022,Tesla,Model Y AWD,Sport utility vehicle: Small,17.1,449,0,0,10.0,9.0
+2022,Tesla,Model Y Long Range AWD,Sport utility vehicle: Small,17.2,531,0,0,10.0,10.0
+2022,Tesla,Model Y Performance,Sport utility vehicle: Small,18.9,488,0,0,10.0,10.0
+2022,Volkswagen,ID.4 Pro,Sport utility vehicle: Small,20.2,422,0,0,10.0,7.5
+2022,Volkswagen,ID.4 AWD Pro,Sport utility vehicle: Small,22.0,394,0,0,10.0,7.5
+2022,Volvo,C40 Recharge Twin,Sport utility vehicle: Small,23.9,364,0,0,10.0,8.0
+2022,Volvo,XC40 Recharge Twin,Sport utility vehicle: Small,24.5,359,0,0,10.0,8.0
+2023,Audi,e-tron 55 quattro,Sport utility vehicle: Standard,26.6,364,0,0,10.0,10.0
+2023,Audi,e-tron Sportback 55 quattro,Sport utility vehicle: Standard,26.8,362,0,0,10.0,10.0
+2023,Audi,e-tron GT,Compact,25.6,383,0,0,10.0,10.5
+2023,Audi,RS e-tron GT,Compact,26.0,373,0,0,10.0,10.5
+2023,Audi,Q4 50 e-tron quattro,Sport utility vehicle: Small,22.6,380,0,0,10.0,9.0
+2023,Audi,Q4 Sportback 50 e-tron quattro,Sport utility vehicle: Small,22.1,389,0,0,10.0,9.0
+2023,BMW,"i4 eDrive35 Gran Coupe (18"" Wheels)",Subcompact,18.5,412,0,0,10.0,8.0
+2023,BMW,"i4 eDrive35 Gran Coupe (19"" Wheels)",Subcompact,20.0,378,0,0,10.0,8.0
+2023,BMW,"i4 eDrive40 Gran Coupe (18"" Wheels)",Subcompact,19.2,484,0,0,10.0,10.0
+2023,BMW,"i4 eDrive40 Gran Coupe (19"" Wheels)",Subcompact,21.1,454,0,0,10.0,10.0
+2023,BMW,"i4 M50 Gran Coupe (19"" Wheels)",Subcompact,21.9,436,0,0,10.0,10.0
+2023,BMW,"i4 M50 Gran Coupe (20"" Wheels)",Subcompact,26.3,365,0,0,10.0,10.0
+2023,BMW,"i7 xDrive60 (19"" Wheels)",Full-size,23.5,512,0,0,10.0,12.0
+2023,BMW,"i7 xDrive60 (20"" Wheels)",Full-size,25.2,476,0,0,10.0,12.0
+2023,BMW,"i7 xDrive60 (21"" Wheels)",Full-size,24.1,496,0,0,10.0,12.0
+2023,BMW,"iX xDrive40 (20"" Wheels) ",Sport utility vehicle: Standard,25.3,322,0,0,10.0,8.0
+2023,BMW,"iX xDrive40 (21"" Wheels) ",Sport utility vehicle: Standard,25.2,322,0,0,10.0,8.0
+2023,BMW,"iX xDrive40 (22"" Wheels) ",Sport utility vehicle: Standard,25.3,320,0,0,10.0,8.0
+2023,BMW,"iX xDrive50 (20"" Wheels)",Sport utility vehicle: Standard,24.2,521,0,0,10.0,12.0
+2023,BMW,"iX xDrive50 (21"" Wheels)",Sport utility vehicle: Standard,25.3,496,0,0,10.0,12.0
+2023,BMW,"iX xDrive50 (22"" Wheels)",Sport utility vehicle: Standard,24.4,512,0,0,10.0,12.0
+2023,BMW,"iX M60 (21"" Wheels)",Sport utility vehicle: Standard,27.0,463,0,0,10.0,12.0
+2023,BMW,"iX M60 (22"" Wheels)",Sport utility vehicle: Standard,26.7,441,0,0,10.0,12.0
+2023,Cadillac,LYRIQ,Sport utility vehicle: Small,23.4,502,0,0,10.0,6.5
+2023,Cadillac,LYRIQ AWD,Sport utility vehicle: Small,23.6,494,0,0,10.0,10.7
+2023,Chevrolet,Bolt EUV,Station wagon: Small,18.3,397,0,0,10.0,7.5
+2023,Chevrolet,Bolt EV,Station wagon: Small,17.5,417,0,0,10.0,7.5
+2023,Fisker,Ocean Extreme/One,Sport utility vehicle: Standard,22.9,579,0,0,10.0,18.0
+2023,Fisker,Ocean Ultra,Sport utility vehicle: Standard,23.5,563,0,0,10.0,18.0
+2023,Ford,F-150 Lightning Standard Range,Pickup truck: Standard,30.6,386,0,0,10.0,11.9
+2023,Ford,F-150 Lightning Extended Range,Pickup truck: Standard,29.8,515,0,0,10.0,10.1
+2023,Ford,F-150 Lightning Platinum,Pickup truck: Standard,31.5,483,0,0,10.0,9.3
+2023,Ford,Mustang Mach-E Standard Range,Sport utility vehicle: Small,20.3,397,0,0,10.0,8.1
+2023,Ford,Mustang Mach-E Standard Range (LFP),Sport utility vehicle: Small,20.7,402,0,0,10.0,7.4
+2023,Ford,Mustang Mach-E Standard Range AWD,Sport utility vehicle: Small,22.6,360,0,0,10.0,8.0
+2023,Ford,Mustang Mach-E Standard Range AWD (LFP),Sport utility vehicle: Small,22.6,370,0,0,10.0,7.4
+2023,Ford,Mustang Mach-E Extended Range,Sport utility vehicle: Small,21.1,500,0,0,10.0,10.2
+2023,Ford,Mustang Mach-E Extended Range AWD,Sport utility vehicle: Small,22.9,467,0,0,10.0,10.0
+2023,Ford,Mustang Mach-E California Route 1 AWD,Sport utility vehicle: Small,21.3,502,0,0,10.0,10.1
+2023,Ford,Mustang Mach-E GT Performance Edition,Sport utility vehicle: Small,25.6,418,0,0,10.0,10.1
+2023,Genesis,Electrified G80,Full-size,21.7,454,0,0,10.0,9.0
+2023,Genesis,GV60 Advanced AWD,Full-size,22.1,399,0,0,10.0,7.2
+2023,Genesis,GV60 Performance AWD,Full-size,23.0,378,0,0,10.0,7.2
+2023,Genesis,Electrified GV70,Sport utility vehicle: Small,23.0,383,0,0,10.0,7.9
+2023,Hyundai,IONIQ 5 Standard Range,Full-size,19.3,354,0,0,10.0,6.3
+2023,Hyundai,IONIQ 5 Long Range,Full-size,18.6,488,0,0,10.0,8.5
+2023,Hyundai,IONIQ 5 Long Range AWD,Full-size,21.0,422,0,0,10.0,8.5
+2023,Hyundai,IONIQ 6 Standard Range,Mid-size,15.5,386,0,0,10.0,6.1
+2023,Hyundai,IONIQ 6 Long Range (18'' Wheels),Mid-size,14.9,581,0,0,10.0,7.5
+2023,Hyundai,IONIQ 6 Long Range AWD (18'' Wheels),Mid-size,17.4,509,0,0,10.0,7.5
+2023,Hyundai,IONIQ 6 Long Range AWD (20'' Wheels),Mid-size,20.5,435,0,0,10.0,7.5
+2023,Hyundai,Kona Electric,Sport utility vehicle: Small,17.4,415,0,0,10.0,9.5
+2023,Jaguar,I-PACE,Sport utility vehicle: Small,25.5,381,0,0,10.0,13.0
+2023,Kia,EV6 Standard Range,Station wagon: Small,18.0,373,0,0,10.0,6.3
+2023,Kia,EV6 Long Range,Station wagon: Small,18.0,499,0,0,10.0,8.7
+2023,Kia,"EV6 Long Range AWD (19"" Wheels)",Station wagon: Small,19.3,454,0,0,10.0,8.4
+2023,Kia,"EV6 Long Range AWD (20"" Wheels)",Station wagon: Small,21.7,406,0,0,10.0,8.4
+2023,Kia,EV6 GT AWD,Station wagon: Small,26.4,332,0,0,10.0,8.9
+2023,Kia,Niro EV,Station wagon: Small,18.6,407,0,0,10.0,7.5
+2023,Kia,Soul EV (120 Ah),Station wagon: Small,17.8,248,0,0,10.0,6.0
+2023,Kia,Soul EV (180 Ah),Station wagon: Small,18.7,383,0,0,10.0,9.5
+2023,Lexus,"RZ 450e AWD (18"" Wheels)",Sport utility vehicle: Small,19.6,354,0,0,10.0,10.0
+2023,Lexus,"RZ 450e AWD (20"" Wheels)",Sport utility vehicle: Small,22.4,315,0,0,10.0,10.0
+2023,Lucid,"Air Grand Touring XR (19"" Wheels)",Full-size,16.0,830,0,0,10.0,13.0
+2023,Lucid,"Air Grand Touring XR (20"" Wheels)",Full-size,17.3,755,0,0,10.0,13.0
+2023,Lucid,"Air Grand Touring XR (21"" Wheels)",Full-size,17.3,755,0,0,10.0,13.0
+2023,Lucid,"Air Grand Touring Performance (21"" Wheels)",Full-size,18.9,718,0,0,10.0,13.0
+2023,Lucid,"Air Pure (19"" Wheels)",Full-size,14.9,660,0,0,10.0,10.0
+2023,Lucid,"Air Pure (20"" Wheels)",Full-size,17.3,618,0,0,10.0,10.0
+2023,Lucid,"Air Touring (19"" Wheels)",Full-size,14.9,684,0,0,10.0,10.0
+2023,Lucid,"Air Touring (20"" Wheels)",Full-size,17.3,618,0,0,10.0,10.0
+2023,Lucid,"Air Touring (21"" Wheels)",Full-size,17.3,618,0,0,10.0,10.0
+2023,Mazda,MX-30,Mid-size,22.8,161,0,0,10.0,5.3
+2023,Mercedes-Benz,AMG EQE 4MATIC+ Sedan,Mid-size,28.3,362,0,0,10.0,9.5
+2023,Mercedes-Benz,AMG EQS 4MATIC+ Sedan,Full-size,27.9,446,0,0,10.0,11.25
+2023,Mercedes-Benz,EQB 250+,Sport utility vehicle: Small,19.9,394,0,0,10.0,7.75
+2023,Mercedes-Benz,EQB 350 4MATIC SUV,Sport utility vehicle: Small,21.7,356,0,0,10.0,6.25
+2023,Mercedes-Benz,EQE 350 4MATIC Sedan,Mid-size,24.2,418,0,0,10.0,8.25
+2023,Mercedes-Benz,EQE 350 4MATIC SUV,Sport utility vehicle: Standard,25.9,407,0,0,10.0,9.5
+2023,Mercedes-Benz,EQE 500 4MATIC Sedan,Mid-size,25.2,418,0,0,10.0,9.5
+2023,Mercedes-Benz,EQE 500 4MATIC SUV,Sport utility vehicle: Standard,23.7,433,0,0,10.0,9.5
+2023,Mercedes-Benz,EQS 450 4MATIC Sedan,Full-size,20.3,547,0,0,10.0,11.5
+2023,Mercedes-Benz,EQS 450 4MATIC SUV,Sport utility vehicle: Standard,26.7,459,0,0,10.0,11.5
+2023,Mercedes-Benz,EQS 580 4MATIC Sedan,Full-size,23.0,547,0,0,10.0,11.25
+2023,Mercedes-Benz,EQS 580 4MATIC SUV,Sport utility vehicle: Standard,27.3,459,0,0,10.0,11.5
+2023,MINI,Cooper SE 3 Door,Subcompact,19.1,183,0,0,10.0,4.0
+2023,Polestar,2 Single Motor,Mid-size,19.6,435,0,0,10.0,8.0
+2023,Polestar,2 Dual Motor,Mid-size,20.9,418,0,0,10.0,8.0
+2023,Polestar,2 Dual Motor Performance Pack,Mid-size,20.9,418,0,0,10.0,8.0
+2023,Polestar,2 BST Edition,Mid-size,22.1,397,0,0,10.0,8.0
+2023,Porsche,Taycan 4S (Performance Battery),Compact,25.5,332,0,0,10.0,9.5
+2023,Porsche,Taycan 4S (Performance Battery Plus),Compact,26.3,378,0,0,10.0,10.5
+2023,Porsche,Taycan 4S Cross Turismo,Mid-size,26.7,370,0,0,10.0,10.5
+2023,Porsche,Taycan GTS,Compact,25.3,396,0,0,10.0,10.5
+2023,Porsche,Taycan GTS Sport Turismo,Compact,26.2,322,0,0,10.0,10.5
+2023,Porsche,Taycan Turbo,Compact,26.0,383,0,0,10.0,10.5
+2023,Porsche,Taycan Turbo Cross Turismo,Mid-size,26.5,375,0,0,10.0,10.5
+2023,Porsche,Taycan Turbo S,Compact,28.0,357,0,0,10.0,10.5
+2023,Porsche,Taycan Turbo S Cross Turismo,Mid-size,28.0,357,0,0,10.0,10.5
+2023,Rivian,"R1S (20"" Wheels)",Sport utility vehicle: Standard,32.5,465,0,0,10.0,13.0
+2023,Rivian,"R1S (20"" Wheels) All-Terrain",Sport utility vehicle: Standard,33.4,441,0,0,10.0,13.0
+2023,Rivian,"R1S (20"" Wheels) AT Dual Large",Sport utility vehicle: Standard,30.6,494,0,0,10.0,13.0
+2023,Rivian,"R1S (20"" Wheels) AT Performance Dual Large",Sport utility vehicle: Standard,30.6,494,0,0,10.0,13.0
+2023,Rivian,"R1S (20"" Wheels) AT Dual Max",Sport utility vehicle: Standard,28.7,571,0,0,10.0,13.0
+2023,Rivian,"R1S (20"" Wheels) AT Performance Dual Max",Sport utility vehicle: Standard,28.7,571,0,0,10.0,13.0
+2023,Rivian,"R1S (21"" Wheels)",Sport utility vehicle: Standard,29.5,517,0,0,10.0,13.0
+2023,Rivian,"R1S (21"" Wheels) Dual Large",Sport utility vehicle: Standard,26.9,566,0,0,10.0,13.0
+2023,Rivian,"R1S (21"" Wheels) Performance Dual Large",Sport utility vehicle: Standard,26.9,566,0,0,10.0,13.0
+2023,Rivian,"R1S (21"" Wheels) Dual Max",Sport utility vehicle: Standard,25.4,644,0,0,10.0,13.0
+2023,Rivian,"R1S (21"" Wheels) Performance Dual Max",Sport utility vehicle: Standard,25.4,644,0,0,10.0,13.0
+2023,Rivian,"R1S (22"" Wheels)",Sport utility vehicle: Standard,30.7,488,0,0,10.0,13.0
+2023,Rivian,"R1S (22"" Wheels) Dual Large",Sport utility vehicle: Standard,27.8,549,0,0,10.0,13.0
+2023,Rivian,"R1S (22"" Wheels) Performance Dual Large",Sport utility vehicle: Standard,27.8,549,0,0,10.0,13.0
+2023,Rivian,"R1S (22"" Wheels) Dual Max",Sport utility vehicle: Standard,26.9,612,0,0,10.0,13.0
+2023,Rivian,"R1S (22"" Wheels) Performance Dual Max",Sport utility vehicle: Standard,26.9,612,0,0,10.0,13.0
+2023,Rivian,"R1T (20"" Wheels)",Pickup truck: Standard,32.5,465,0,0,10.0,13.0
+2023,Rivian,"R1T (20"" Wheels) All-Terrain",Pickup truck: Standard,33.4,441,0,0,10.0,13.0
+2023,Rivian,"R1T (20"" Wheels) AT Dual Large",Pickup truck: Standard,30.6,494,0,0,10.0,13.0
+2023,Rivian,"R1T (20"" Wheels) AT Performance Dual Large",Pickup truck: Standard,30.6,494,0,0,10.0,13.0
+2023,Rivian,"R1T (20"" Wheels) AT Dual Max",Pickup truck: Standard,28.7,571,0,0,10.0,13.0
+2023,Rivian,"R1T (20"" Wheels) AT Performance Dual Max",Pickup truck: Standard,28.7,571,0,0,10.0,13.0
+2023,Rivian,"R1T (21"" Wheels)",Pickup truck: Standard,28.7,528,0,0,10.0,13.0
+2023,Rivian,"R1T (21"" Wheels) Dual Large",Pickup truck: Standard,26.9,566,0,0,10.0,13.0
+2023,Rivian,"R1T (21"" Wheels) Performance Dual Large",Pickup truck: Standard,26.9,566,0,0,10.0,13.0
+2023,Rivian,"R1T (21"" Wheels) Dual Max",Pickup truck: Standard,24.8,661,0,0,10.0,13.0
+2023,Rivian,"R1T (21"" Wheels) Performance Dual Max",Pickup truck: Standard,24.8,661,0,0,10.0,13.0
+2023,Rivian,"R1T (22"" Wheels)",Pickup truck: Standard,30.7,488,0,0,10.0,13.0
+2023,Rivian,"R1T (22"" Wheels) Dual Large",Pickup truck: Standard,27.6,549,0,0,10.0,13.0
+2023,Rivian,"R1T (22"" Wheels) Performance Dual Large",Pickup truck: Standard,27.6,549,0,0,10.0,13.0
+2023,Rivian,"R1T (22"" Wheels) Dual Max",Pickup truck: Standard,26.9,612,0,0,10.0,13.0
+2023,Rivian,"R1T (22"" Wheels) Performance Dual Max",Pickup truck: Standard,26.9,612,0,0,10.0,13.0
+2023,Subaru,Solterra AWD,Sport utility vehicle: Small,20.3,360,0,0,10.0,11.0
+2023,Tesla,Model 3 RWD,Mid-size,15.8,438,0,0,10.0,8.5
+2023,Tesla,Model 3 Long Range AWD (pre-1/10/23),Mid-size,16.0,576,0,0,10.0,10.0
+2023,Tesla,Model 3 Long Range AWD,Mid-size,16.6,536,0,0,10.0,10.0
+2023,Tesla,Model 3 Long Range AWD (Import),Mid-size,16.6,534,0,0,10.0,10.0
+2023,Tesla,Model 3 Performance,Mid-size,18.6,507,0,0,10.0,10.0
+2023,Tesla,Model S,Full-size,17.5,652,0,0,10.0,15.0
+2023,Tesla,"Model S Plaid (19"" Wheels)",Full-size,18.1,637,0,0,10.0,15.0
+2023,Tesla,"Model S Plaid (21"" Wheels)",Full-size,20.8,560,0,0,10.0,15.0
+2023,Tesla,Model X,Sport utility vehicle: Standard,20.6,560,0,0,10.0,14.0
+2023,Tesla,"Model X Plaid (20"" Wheels)",Sport utility vehicle: Standard,21.4,536,0,0,10.0,14.0
+2023,Tesla,"Model X Plaid (22"" Wheels)",Sport utility vehicle: Standard,22.9,500,0,0,10.0,14.0
+2023,Tesla,Model Y RWD,Sport utility vehicle: Small,17.3,394,0,0,10.0,8.0
+2023,Tesla,Model Y AWD,Sport utility vehicle: Small,17.1,449,0,0,10.0,9.0
+2023,Tesla,Model Y Long Range AWD,Sport utility vehicle: Small,17.2,531,0,0,10.0,10.0
+2023,Tesla,Model Y Long Range AWD (Import),Sport utility vehicle: Small,17.8,497,0,0,10.0,10.0
+2023,Tesla,Model Y Performance,Sport utility vehicle: Small,18.9,488,0,0,10.0,10.0
+2023,Tesla,Model Y Performance (Import),Sport utility vehicle: Small,19.2,459,0,0,10.0,10.0
+2023,Toyota,bZ4X,Sport utility vehicle: Small,17.6,406,0,0,10.0,11.0
+2023,Toyota,bZ4X AWD,Sport utility vehicle: Small,20.1,367,0,0,10.0,11.0
+2023,VinFast,VF8 ECO,Sport utility vehicle: Small,27.8,425,0,0,10.0,12.0
+2023,VinFast,VF8 PLUS,Sport utility vehicle: Small,33.2,354,0,0,10.0,12.0
+2023,VinFast,VF8 PLUS Performance,Sport utility vehicle: Small,45.9,391,0,0,10.0,12.0
+2023,Volkswagen,ID.4,Sport utility vehicle: Small,19.6,336,0,0,10.0,6.0
+2023,Volkswagen,ID.4 Pro,Sport utility vehicle: Small,19.6,443,0,0,10.0,7.5
+2023,Volkswagen,ID.4 AWD Pro,Sport utility vehicle: Small,21.2,410,0,0,10.0,7.5
+2023,Volvo,C40 Recharge Twin,Sport utility vehicle: Small,23.9,364,0,0,10.0,8.0
+2023,Volvo,XC40 Recharge Twin,Sport utility vehicle: Small,24.5,359,0,0,10.0,8.0
+2024,Acura,ZDX A-SPEC AWD,Sport utility vehicle: Standard,24.0,489,0,0,10.0,11.0
+2024,Acura,ZDX Type S AWD,Sport utility vehicle: Standard,26.7,447,0,0,10.0,11.0
+2024,Audi,e-tron GT,Compact,24.8,399,0,0,10.0,10.5
+2024,Audi,RS e-tron GT,Compact,24.8,399,0,0,10.0,10.5
+2024,Audi,Q4 45 e-tron,Sport utility vehicle: Small,18.3,463,0,0,10.0,12.0
+2024,Audi,Q4 50 e-tron,Sport utility vehicle: Small,22.6,380,0,0,10.0,9.0
+2024,Audi,Q4 Sportback 50 e-tron,Sport utility vehicle: Small,22.1,389,0,0,10.0,9.0
+2024,Audi,Q4 55 e-tron,Sport utility vehicle: Small,21.0,415,0,0,10.0,12.0
+2024,Audi,Q4 Sportback 55 e-tron,Sport utility vehicle: Small,21.0,415,0,0,10.0,12.0
+2024,Audi,Q8 e-tron,Sport utility vehicle: Standard,25.7,459,0,0,10.0,16.0
+2024,Audi,Q8 Sportback e-tron,Sport utility vehicle: Standard,24.2,476,0,0,10.0,16.0
+2024,Audi,"SQ8 e-tron (20"" Wheels)",Sport utility vehicle: Standard,28.5,409,0,0,10.0,16.0
+2024,Audi,"SQ8 e-tron (21"" or 22"" Wheels)",Sport utility vehicle: Standard,33.4,351,0,0,10.0,16.0
+2024,Audi,"SQ8 Sportback e-tron (20"" Wheels)",Sport utility vehicle: Standard,28.5,409,0,0,10.0,16.0
+2024,Audi,"SQ8 Sportback e-tron (21"" or 22"" Wheels)",Sport utility vehicle: Standard,33.4,351,0,0,10.0,16.0
+2024,BMW,"i4 eDrive35 Gran Coupe (18"" Wheels)",Subcompact,17.4,444,0,0,10.0,7.0
+2024,BMW,"i4 eDrive35 Gran Coupe (19"" Wheels)",Subcompact,19.1,406,0,0,10.0,7.0
+2024,BMW,"i4 eDrive40 Gran Coupe (18"" Wheels)",Subcompact,19.2,484,0,0,10.0,8.0
+2024,BMW,"i4 eDrive40 Gran Coupe (19"" Wheels)",Subcompact,21.0,455,0,0,10.0,8.0
+2024,BMW,"i4 xDrive40 Gran Coupe (18"" Wheels)",Subcompact,19.2,494,0,0,10.0,8.0
+2024,BMW,"i4 xDrive40 Gran Coupe (19"" Wheels)",Subcompact,21.2,449,0,0,10.0,8.0
+2024,BMW,"i4 M50 Gran Coupe (19"" Wheels)",Subcompact,22.0,433,0,0,10.0,8.0
+2024,BMW,"i4 M50 Gran Coupe (20"" Wheels)",Subcompact,26.3,365,0,0,10.0,8.0
+2024,BMW,"i5 M60 Sedan (19"" Wheels)",Compact,23.0,412,0,0,10.0,8.0
+2024,BMW,"i5 M60 Sedan (20"" Wheels)",Compact,23.5,399,0,0,10.0,8.0
+2024,BMW,"i5 M60 Sedan (21"" Wheels)",Compact,24.6,386,0,0,10.0,8.0
+2024,BMW,"i7 xDrive60 Sedan (19"" Wheels)",Full-size,23.4,510,0,0,10.0,11.0
+2024,BMW,"i7 xDrive60 Sedan (20"" Wheels)",Full-size,25.0,480,0,0,10.0,11.0
+2024,BMW,"i7 xDrive60 Sedan (21"" Wheels)",Full-size,23.8,494,0,0,10.0,11.0
+2024,BMW,"i7 M70 xDrive Sedan (20"" Wheels)",Full-size,27.4,441,0,0,10.0,11.0
+2024,BMW,"i7 M70 xDrive Sedan (21"" Wheels)",Full-size,25.8,468,0,0,10.0,11.0
+2024,BMW,"iX xDrive40 (20"" Wheels) ",Sport utility vehicle: Standard,24.2,351,0,0,10.0,8.0
+2024,BMW,"iX xDrive40 (21"" Wheels) ",Sport utility vehicle: Standard,24.6,346,0,0,10.0,8.0
+2024,BMW,"iX xDrive40 (22"" Wheels) ",Sport utility vehicle: Standard,23.8,356,0,0,10.0,8.0
+2024,BMW,"iX xDrive50 (20"" Wheels) ",Sport utility vehicle: Standard,25.0,500,0,0,10.0,11.0
+2024,BMW,"iX xDrive50 (21"" Wheels)",Sport utility vehicle: Standard,25.4,494,0,0,10.0,11.0
+2024,BMW,"iX xDrive50 (22"" Wheels) ",Sport utility vehicle: Standard,25.6,491,0,0,10.0,11.0
+2024,BMW,"iX M60 (21"" Wheels)",Sport utility vehicle: Standard,26.4,476,0,0,10.0,11.0
+2024,BMW,"iX M60 (22"" Wheels)",Sport utility vehicle: Standard,26.2,476,0,0,10.0,11.0
+2024,Cadillac,LYRIQ (11.5 kW Charger),Sport utility vehicle: Small,23.8,505,0,0,10.0,10.7
+2024,Cadillac,LYRIQ (19 kW Charger),Sport utility vehicle: Small,23.8,505,0,0,10.0,6.7
+2024,Cadillac,LYRIQ AWD (11.5 kW Charger),Sport utility vehicle: Small,23.6,494,0,0,10.0,10.7
+2024,Cadillac,LYRIQ AWD (19 kW Charger),Sport utility vehicle: Small,23.6,494,0,0,10.0,6.7
+2024,Chevrolet,Blazer EV RS,Sport utility vehicle: Small,22.8,521,0,0,10.0,11.0
+2024,Chevrolet,Blazer EV 2LT/RS AWD,Sport utility vehicle: Small,21.9,449,0,0,10.0,9.5
+2024,Chevrolet,Equinox EV,Sport utility vehicle: Small,19.3,513,0,0,10.0,9.4
+2024,Chevrolet,Equinox EV AWD,Sport utility vehicle: Small,21.8,459,0,0,10.0,9.5
+2024,Chevrolet,Silverado EV 3WT,Pickup truck: Standard,31.4,632,0,0,10.0,11.0
+2024,Chevrolet,Silverado EV 4WT,Pickup truck: Standard,33.2,724,0,0,10.0,12.7
+2024,FIAT,500e,Minicompact,19.0,227,0,0,10.0,6.2
+2024,Fisker,"Ocean Extreme (20"" Wheels)",Sport utility vehicle: Standard,22.9,579,0,0,10.0,18.0
+2024,Fisker,"Ocean Extreme (22"" Wheels)",Sport utility vehicle: Standard,23.4,541,0,0,10.0,18.0
+2024,Fisker,"Ocean Sport (20"" Wheels)",Sport utility vehicle: Standard,22.7,372,0,0,10.0,12.0
+2024,Fisker,"Ocean Sport (22"" Wheels)",Sport utility vehicle: Standard,26.6,312,0,0,10.0,12.0
+2024,Fisker,"Ocean Ultra (20"" Wheels)",Sport utility vehicle: Standard,23.5,563,0,0,10.0,18.0
+2024,Fisker,"Ocean Ultra (22"" Wheels)",Sport utility vehicle: Standard,24.1,525,0,0,10.0,18.0
+2024,Ford,F-150 Lightning Standard Range,Pickup truck: Standard,30.6,386,0,0,10.0,11.9
+2024,Ford,F-150 Lightning Extended Range,Pickup truck: Standard,29.8,515,0,0,10.0,14.6
+2024,Ford,F-150 Lightning Platinum,Pickup truck: Standard,31.5,483,0,0,10.0,14.6
+2024,Ford,F-150 Lightning Pro,Pickup truck: Standard,29.8,515,0,0,10.0,10.1
+2024,Ford,Mustang Mach-E Standard Range,Sport utility vehicle: Small,20.5,402,0,0,10.0,7.1
+2024,Ford,Mustang Mach-E Standard Range AWD,Sport utility vehicle: Small,22.9,370,0,0,10.0,7.5
+2024,Ford,Mustang Mach-E Extended Range,Sport utility vehicle: Small,19.8,515,0,0,10.0,10.1
+2024,Ford,Mustang Mach-E Extended Range AWD,Sport utility vehicle: Small,21.2,483,0,0,10.0,10.0
+2024,Ford,Mustang Mach-E GT,Sport utility vehicle: Small,23.2,451,0,0,10.0,9.9
+2024,Ford,Mustang Mach-E Rally,Sport utility vehicle: Small,24.5,426,0,0,10.0,10.2
+2024,Genesis,Electrified G80,Full-size,21.7,454,0,0,10.0,9.0
+2024,Genesis,GV60 Advanced AWD,Sport utility vehicle: Small,22.1,399,0,0,10.0,7.2
+2024,Genesis,GV60 Performance AWD,Sport utility vehicle: Small,23.0,378,0,0,10.0,7.2
+2024,Genesis,Electrified GV70,Sport utility vehicle: Small,23.1,380,0,0,10.0,7.9
+2024,GMC,HUMMER EV2X Pickup,Pickup truck: Standard,40.4,500,0,0,10.0,10.5
+2024,GMC,HUMMER EV2X Pickup Mud Terrain Tire,Pickup truck: Standard,44.6,449,0,0,10.0,10.5
+2024,GMC,HUMMER EV2X SUV,Sport utility vehicle: Standard,41.0,488,0,0,10.0,10.5
+2024,GMC,HUMMER EV2X SUV Mud Terrain Tire,Sport utility vehicle: Standard,44.6,449,0,0,10.0,10.5
+2024,GMC,HUMMER EV3X SUV,Sport utility vehicle: Standard,39.4,505,0,0,10.0,10.5
+2024,GMC,HUMMER EV3X SUV Mud Terrain Tire,Sport utility vehicle: Standard,41.6,480,0,0,10.0,10.5
+2024,Honda,Prologue EX AWD,Sport utility vehicle: Standard,22.1,452,0,0,10.0,9.5
+2024,Honda,Prologue EX-L AWD,Sport utility vehicle: Standard,22.1,452,0,0,10.0,9.5
+2024,Honda,Prologue Touring AWD,Sport utility vehicle: Standard,22.8,439,0,0,10.0,9.5
+2024,Hyundai,IONIQ 5 Long Range,Sport utility vehicle: Small,18.6,488,0,0,10.0,8.5
+2024,Hyundai,IONIQ 5 Long Range AWD,Sport utility vehicle: Small,21.5,410,0,0,10.0,8.5
+2024,Hyundai,IONIQ 6 Long Range (18'' Wheels),Mid-size,14.9,581,0,0,10.0,7.5
+2024,Hyundai,IONIQ 6 Long Range (20'' Wheels),Mid-size,18.0,491,0,0,10.0,7.5
+2024,Hyundai,IONIQ 6 Long Range AWD (18'' Wheels),Mid-size,17.4,509,0,0,10.0,7.5
+2024,Hyundai,IONIQ 6 Long Range AWD (20'' Wheels),Mid-size,20.5,435,0,0,10.0,7.5
+2024,Hyundai,Kona Electric Long Range,Sport utility vehicle: Small,18.1,420,0,0,10.0,6.1
+2024,Jaguar,I-PACE,Sport utility vehicle: Small,25.5,381,0,0,10.0,13.0
+2024,Kia,EV6 Wind,Sport utility vehicle: Small,18.0,499,0,0,10.0,8.7
+2024,Kia,"EV6 Land AWD (19"" Wheels)",Sport utility vehicle: Small,19.3,454,0,0,10.0,8.4
+2024,Kia,"EV6 Land AWD (20"" Wheels)",Sport utility vehicle: Small,21.7,406,0,0,10.0,8.4
+2024,Kia,EV6 GT AWD,Sport utility vehicle: Small,25.5,351,0,0,10.0,7.7
+2024,Kia,EV9 Light,Sport utility vehicle: Standard,23.6,370,0,0,10.0,11.4
+2024,Kia,EV9 Wind,Sport utility vehicle: Standard,23.6,489,0,0,10.0,15.2
+2024,Kia,EV9 Land AWD,Sport utility vehicle: Standard,25.5,451,0,0,10.0,14.5
+2024,Kia,EV9 Land AWD GT-Line,Sport utility vehicle: Standard,26.1,435,0,0,10.0,15.2
+2024,Kia,Niro EV,Sport utility vehicle: Small,18.6,407,0,0,10.0,7.5
+2024,Lexus,"RZ 450e AWD (18"" Wheels)",Sport utility vehicle: Small,19.6,354,0,0,10.0,10.0
+2024,Lexus,"RZ 450e AWD (20"" Wheels)",Sport utility vehicle: Small,22.4,315,0,0,10.0,10.0
+2024,Lucid,"Air Grand Touring XR AWD (19"" Wheels)",Full-size,16.2,832,0,0,10.0,13.0
+2024,Lucid,"Air Grand Touring XR AWD (20"" Wheels)",Full-size,17.3,782,0,0,10.0,13.0
+2024,Lucid,"Air Grand Touring XR AWD (21"" Wheels)",Full-size,18.5,726,0,0,10.0,13.0
+2024,Lucid,"Air Pure (19"" Wheels)",Full-size,15.3,674,0,0,10.0,10.0
+2024,Lucid,"Air Pure (20"" Wheels)",Full-size,16.1,634,0,0,10.0,10.0
+2024,Lucid,Air Sapphire AWD,Full-size,20.0,687,0,0,10.0,13.0
+2024,Lucid,"Air Touring AWD (19"" Wheels)",Full-size,15.7,661,0,0,10.0,10.0
+2024,Lucid,"Air Touring AWD (20"" Wheels)",Full-size,17.1,615,0,0,10.0,10.0
+2024,Lucid,"Air Touring AWD (21"" Wheels)",Full-size,17.8,587,0,0,10.0,10.0
+2024,Mazda,MX-30,Mid-size,22.8,161,0,0,10.0,5.3
+2024,Mercedes-Benz,AMG EQE 4MATIC+ Sedan,Mid-size,28.6,370,0,0,10.0,10.5
+2024,Mercedes-Benz,AMG EQE 4MATIC+ SUV,Sport utility vehicle: Standard,28.6,378,0,0,10.0,9.5
+2024,Mercedes-Benz,AMG EQS 4MATIC+ Sedan,Full-size,25.5,483,0,0,10.0,11.25
+2024,Mercedes-Benz,EQB 250+,Sport utility vehicle: Small,21.7,359,0,0,10.0,7.25
+2024,Mercedes-Benz,EQB 300 4MATIC,Sport utility vehicle: Small,24.0,330,0,0,10.0,6.75
+2024,Mercedes-Benz,EQE 350 4MATIC Sedan,Mid-size,23.0,451,0,0,10.0,9.5
+2024,Mercedes-Benz,EQE 350 4MATIC SUV,Sport utility vehicle: Standard,24.9,426,0,0,10.0,9.5
+2024,Mercedes-Benz,EQE 500 4MATIC Sedan,Mid-size,23.6,446,0,0,10.0,9.5
+2024,Mercedes-Benz,EQE 500 4MATIC SUV,Sport utility vehicle: Standard,24.0,462,0,0,10.0,9.5
+2024,Mercedes-Benz,EQS 450 4MATIC Sedan,Full-size,22.0,555,0,0,10.0,12.75
+2024,Mercedes-Benz,EQS 450 4MATIC SUV,Sport utility vehicle: Standard,25.2,531,0,0,10.0,14.0
+2024,Mercedes-Benz,EQS 580 4MATIC Sedan,Full-size,21.8,555,0,0,10.0,12.75
+2024,Mercedes-Benz,EQS 580 4MATIC SUV,Sport utility vehicle: Standard,25.2,531,0,0,10.0,14.0
+2024,Mercedes-Benz,Maybach EQS 680 4MATIC SUV,Sport utility vehicle: Standard,25.9,517,0,0,10.0,14.0
+2024,MINI,Cooper SE 3 Door,Subcompact,19.1,183,0,0,10.0,4.0
+2024,Nissan,ARIYA Engage,Station wagon: Small,20.7,348,0,0,10.0,10.0
+2024,Nissan,ARIYA Evolve+,Station wagon: Small,21.4,465,0,0,10.0,14.0
+2024,Nissan,ARIYA Evolve e-4ORCE,Station wagon: Small,21.9,330,0,0,10.0,10.0
+2024,Nissan,ARIYA Evolve+ e-4ORCE,Station wagon: Small,22.8,438,0,0,10.0,13.0
+2024,Nissan,ARIYA Platinum+ e-4ORCE,Station wagon: Small,23.4,428,0,0,10.0,14.0
+2024,Nissan,LEAF SV,Mid-size,18.9,240,0,0,10.0,8.0
+2024,Nissan,LEAF SV PLUS,Mid-size,19.1,341,0,0,10.0,11.0
+2024,Polestar,"2 Single Motor (19"" Wheels)",Mid-size,18.2,515,0,0,10.0,8.0
+2024,Polestar,"2 Single Motor (20"" Wheels)",Mid-size,18.6,494,0,0,10.0,8.0
+2024,Polestar,"2 Dual Motor (19"" Wheels)",Mid-size,19.7,444,0,0,10.0,8.0
+2024,Polestar,"2 Dual Motor (20"" Wheels)",Mid-size,20.5,428,0,0,10.0,8.0
+2024,Polestar,2 Dual Motor Performance Pack,Mid-size,21.7,397,0,0,10.0,8.0
+2024,Rivian,"R1S All-Terrain Dual Large (20"" Wheels)",Sport utility vehicle: Standard,30.6,494,0,0,10.0,13.0
+2024,Rivian,"R1S AT Performance Dual Large (20"" Wheels)",Sport utility vehicle: Standard,30.6,494,0,0,10.0,13.0
+2024,Rivian,"R1S Dual Large (21"" Wheels)",Sport utility vehicle: Standard,26.9,566,0,0,10.0,13.0
+2024,Rivian,"R1S Performance Dual Large (21"" Wheels)",Sport utility vehicle: Standard,26.9,566,0,0,10.0,13.0
+2024,Rivian,"R1S Dual Large (22"" Wheels)",Sport utility vehicle: Standard,27.8,549,0,0,10.0,13.0
+2024,Rivian,"R1S Performance Dual Large (22"" Wheels)",Sport utility vehicle: Standard,27.8,549,0,0,10.0,13.0
+2024,Rivian,"R1S All-Terrain Dual Max (20"" Wheels)",Sport utility vehicle: Standard,28.7,571,0,0,10.0,14.5
+2024,Rivian,"R1S All-Terrain Performance Dual Max (20"" Wheels)",Sport utility vehicle: Standard,28.7,571,0,0,10.0,14.5
+2024,Rivian,"R1S Dual Max (21"" Wheels)",Sport utility vehicle: Standard,25.4,644,0,0,10.0,14.5
+2024,Rivian,"R1S Performance Dual Max (21"" Wheels)",Sport utility vehicle: Standard,25.4,644,0,0,10.0,14.5
+2024,Rivian,"R1S Dual Max (22"" Wheels)",Sport utility vehicle: Standard,26.9,612,0,0,10.0,14.5
+2024,Rivian,"R1S Performance Dual Max (22"" Wheels)",Sport utility vehicle: Standard,26.9,612,0,0,10.0,14.5
+2024,Rivian,"R1S Quad Large (20"" Wheels)",Sport utility vehicle: Standard,32.5,465,0,0,10.0,13.0
+2024,Rivian,"R1S All-Terrain Quad Large (20"" Wheels)",Sport utility vehicle: Standard,33.4,441,0,0,10.0,13.0
+2024,Rivian,"R1S Quad Large (21"" Wheels)",Sport utility vehicle: Standard,29.5,517,0,0,10.0,13.0
+2024,Rivian,"R1S Quad Large (22"" Wheels)",Sport utility vehicle: Standard,30.7,488,0,0,10.0,13.0
+2024,Rivian,"R1T All-Terrain Dual Large (20"" Wheels)",Pickup truck: Standard,30.6,494,0,0,10.0,13.0
+2024,Rivian,"R1T AT Performance Dual Large (20"" Wheels)",Pickup truck: Standard,30.6,494,0,0,10.0,13.0
+2024,Rivian,"R1T Dual Large (21"" Wheels)",Pickup truck: Standard,26.9,566,0,0,10.0,13.0
+2024,Rivian,"R1T Performance Dual Large (21"" Wheels)",Pickup truck: Standard,26.9,566,0,0,10.0,13.0
+2024,Rivian,"R1T Dual Large (22"" Wheels)",Pickup truck: Standard,27.6,549,0,0,10.0,13.0
+2024,Rivian,"R1T Performance Dual Large (22"" Wheels)",Pickup truck: Standard,27.6,549,0,0,10.0,13.0
+2024,Rivian,"R1T All-Terrain Dual Max (20"" Wheels)",Pickup truck: Standard,28.7,571,0,0,10.0,14.5
+2024,Rivian,"R1T All-Terrain Performance Dual Max (20"" Wheels)",Pickup truck: Standard,28.7,571,0,0,10.0,14.5
+2024,Rivian,"R1T Dual Max (21"" Wheels)",Pickup truck: Standard,24.8,661,0,0,10.0,14.5
+2024,Rivian,"R1T Performance Dual Max (21"" Wheels)",Pickup truck: Standard,24.8,661,0,0,10.0,14.5
+2024,Rivian,"R1T Dual Max (22"" Wheels)",Pickup truck: Standard,26.9,612,0,0,10.0,14.5
+2024,Rivian,"R1T Performance Dual Max (22"" Wheels)",Pickup truck: Standard,26.9,612,0,0,10.0,14.5
+2024,Rivian,"R1T Quad Large (20"" Wheels)",Pickup truck: Standard,32.5,465,0,0,10.0,13.0
+2024,Rivian,"R1T All-Terrain Quad Large (20"" Wheels)",Pickup truck: Standard,33.4,441,0,0,10.0,13.0
+2024,Rivian,"R1T Quad Large (21"" Wheels)",Pickup truck: Standard,28.7,528,0,0,10.0,13.0
+2024,Rivian,"R1T Quad Large (22"" Wheels)",Pickup truck: Standard,30.7,488,0,0,10.0,13.0
+2024,Rolls-Royce,"Spectre (22"" Wheels)",Compact,25.8,468,0,0,10.0,11.0
+2024,Rolls-Royce,"Spectre (23"" Wheels)",Compact,28.2,428,0,0,10.0,11.0
+2024,Rolls-Royce,"Black Badge Spectre (22"" Wheels)",Compact,26.8,451,0,0,10.0,11.0
+2024,Rolls-Royce,"Black Badge Spectre (23"" Wheels)",Compact,28.5,425,0,0,10.0,11.0
+2024,Subaru,Solterra AWD,Sport utility vehicle: Small,20.5,359,0,0,10.0,11.0
+2024,Tesla,Model 3 RWD,Mid-size,15.8,438,0,0,10.0,8.5
+2024,Tesla,Model 3 RWD (Import),Mid-size,15.4,438,0,0,10.0,8.5
+2024,Tesla,Model 3 Long Range AWD,Mid-size,16.1,549,0,0,10.0,10.0
+2024,Tesla,Model 3 Long Range AWD (Import),Mid-size,16.2,549,0,0,10.0,10.0
+2024,Tesla,Model S,Full-size,17.2,647,0,0,10.0,15.0
+2024,Tesla,"Model S Plaid (19"" Wheels)",Full-size,19.6,578,0,0,10.0,15.0
+2024,Tesla,"Model S Plaid (21"" Wheels)",Full-size,21.9,515,0,0,10.0,15.0
+2024,Tesla,Model X,Sport utility vehicle: Standard,20.9,539,0,0,10.0,14.0
+2024,Tesla,"Model X Plaid (20"" Wheels)",Sport utility vehicle: Standard,21.5,525,0,0,10.0,14.0
+2024,Tesla,"Model X Plaid (22"" Wheels)",Sport utility vehicle: Standard,23.2,483,0,0,10.0,14.0
+2024,Tesla,Model Y RWD,Sport utility vehicle: Small,17.3,394,0,0,10.0,8.0
+2024,Tesla,Model Y Long Range AWD,Sport utility vehicle: Small,17.8,497,0,0,10.0,10.0
+2024,Tesla,Model Y Performance,Sport utility vehicle: Small,19.2,459,0,0,10.0,10.0
+2024,Toyota,bZ4X,Sport utility vehicle: Small,17.6,406,0,0,10.0,11.0
+2024,Toyota,bZ4X AWD,Sport utility vehicle: Small,20.1,367,0,0,10.0,11.0
+2024,VinFast,VF8 ECO,Sport utility vehicle: Small,27.8,425,0,0,10.0,12.0
+2024,VinFast,VF8 PLUS,Sport utility vehicle: Small,29.5,356,0,0,10.0,12.0
+2024,VinFast,VF8 PLUS Performance,Sport utility vehicle: Small,45.9,391,0,0,10.0,12.0
+2024,VinFast,VF9 ECO,Sport utility vehicle: Standard,27.9,531,0,0,10.0,15.0
+2024,VinFast,VF9 PLUS,Sport utility vehicle: Standard,30.5,468,0,0,10.0,15.0
+2024,Volkswagen,ID.4,Sport utility vehicle: Small,19.6,332,0,0,10.0,6.0
+2024,Volkswagen,ID.4 S,Sport utility vehicle: Small,19.6,332,0,0,10.0,6.0
+2024,Volkswagen,ID.4 Pro,Sport utility vehicle: Small,18.5,468,0,0,10.0,8.0
+2024,Volkswagen,ID.4 Pro S,Sport utility vehicle: Small,18.5,468,0,0,10.0,8.0
+2024,Volkswagen,ID.4 AWD Pro,Sport utility vehicle: Small,20.5,423,0,0,10.0,8.0
+2024,Volkswagen,ID.4 AWD Pro S,Sport utility vehicle: Small,20.5,423,0,0,10.0,8.0
+2024,Volvo,C40 Recharge,Sport utility vehicle: Small,19.6,478,0,0,10.0,8.0
+2024,Volvo,C40 Recharge Twin,Sport utility vehicle: Small,21.2,414,0,0,10.0,8.0
+2024,Volvo,XC40 Recharge,Sport utility vehicle: Small,19.7,472,0,0,10.0,8.0
+2024,Volvo,XC40 Recharge Twin,Sport utility vehicle: Small,21.4,409,0,0,10.0,8.0

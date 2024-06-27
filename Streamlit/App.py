@@ -12,7 +12,7 @@ st.set_page_config(
 
 # Cargamos el modelo
 
-modelo = load('https://github.com/JuankTS/ProyectoFinalDS/blob/b7f2ed28650ea9aeb2a2be632c9d58e558ee08c4/MachineLearning/ridge_model.joblib?raw=True')
+modelo = load('../MachineLearning/ridge_model.joblib?raw=True')
 
 # CSS para la imagen de fondo y estilos de texto
 page_bg_img = '''

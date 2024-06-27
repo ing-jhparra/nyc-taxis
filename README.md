@@ -72,12 +72,12 @@ Evaluar la viabilidad y el impacto de la implementación de vehículos Eléctric
 
 ## Indicadores claves de Desempeño
 
-1. **TasaReducción_Carbono**: Reducir en un 50% la emisión de dióxido de carbono en comparación con los taxis tradicionales a gasolina alcanzar esta meta en un plazo de un 1 año.
+1. **TasaReducción_Carbono**: Reducir en un 50% la emisión de dióxido de carbono en comparación con los taxis tradicionales a gasolina, alcanzar esta meta en un plazo de 1 año.
    <center>
 $\frac{\text{Cantidad de carbono emitida por taxis alternativos}}{\text{Cantidad de carbono emitida por taxis tradicionales}} \times 100$ 
 </center>
 
-2. **TasaGanancia_Bruta**: Superar en un 10% la tasa media de ganancia bruta con taxis alternativos respecto a los taxis tradicionales Alcanzar esta meta en un plazo de un 1 año
+2. **TasaGanancia_Bruta**: Superar en un 10% la tasa media de ganancia bruta con taxis alternativos respecto a los taxis tradicionales, Alcanzar esta meta en un plazo de 1 año
 
    <center>
 $\frac{\text{Ganancia bruta taxis alternativos}}{\text{Ganancia bruta taxis tradicionales}} \times 100$
@@ -85,7 +85,7 @@ $\frac{\text{Ganancia bruta taxis alternativos}}{\text{Ganancia bruta taxis trad
 
   **Ganancia Bruta = Ingreso por Taxi - Costos de Combustible**
 
-3. **Tiempo_Retorno_Inversión**: Lograr el retorno de la inversión en menos de 5 años.
+3. **Tiempo_Retorno_Inversión**: Medir el retorno de inversión de la implementación de la flota de taxis y Lograr el retorno de la inversión en menos de 5 años.
 
    <center>
 $\frac{\text{Inversión total}}{\text{Ganancia bruta diaria}}$

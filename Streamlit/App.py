@@ -3,16 +3,23 @@ import numpy as np
 import streamlit as st 
 from funciones import ObtenerCoordenadas, ObtenerRuta
 from joblib import load 
+import requests
 
 # Configurar la página
 st.set_page_config(
     page_title="Creative Mobile App",
     page_icon="🚕",  
 )
+# Descargar el modelo desde la URL
+url = 'https://github.com/JuankTS/ProyectoFinalDS/blob/b7f2ed28650ea9aeb2a2be632c9d58e558ee08c4/MachineLearning/ridge_model.joblib?raw=True'
+response = requests.get(url)
 
-# Cargamos el modelo
+# Guardar el archivo en una ubicación temporal
+with open('ridge_model.joblib', 'wb') as f:
+    f.write(response.content)
 
-modelo = load('../MachineLearning/ridge_model.joblib')
+# Cargar el modelo
+modelo = load('ridge_model.joblib')
 
 # CSS para la imagen de fondo y estilos de texto
 page_bg_img = '''

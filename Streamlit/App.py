@@ -4,6 +4,12 @@ import streamlit as st
 from funciones import ObtenerCoordenadas, ObtenerRuta
 from joblib import load 
 
+# Configurar la página
+st.set_page_config(
+    page_title="Creative Mobile App",
+    page_icon="🚕",  
+)
+
 # Cargamos el modelo
 
 modelo = load('../MachineLearning/ridge_model.joblib')
@@ -34,6 +40,7 @@ label, .stTextInput > div > div {
     color: black;
     background-color: white;
 }
+
 </style>
 '''
 
@@ -45,29 +52,38 @@ st.title("Bienvenido a la app de Creative Mobile Technologies")
 st.markdown("*Esta aplicación te dará el precio de tu tarifa una vez ingreses las direcciones*", unsafe_allow_html=True)
 
 # Crear una barra de entrada para la dirección de origen
-direccion_origen  = st.text_input("Ingrese su dirección de origen:")
+direccion_origen = st.text_input(label="", placeholder="Ingrese su dirección de origen:")
 
 # Crear una barra de entrada para la dirección de destino
-direccion_destino  = st.text_input("Ingrese su dirección de destino:")
+direccion_destino = st.text_input(label="", placeholder="Ingrese su dirección de destino:")
 
 # Añadir un botón para calcular la ruta
 if st.button("Calcular"):
-    # Obtener coordenadas
-    lat_origen, lon_origen = ObtenerCoordenadas(direccion_origen)
-    lat_destino, lon_destino = ObtenerCoordenadas(direccion_destino)
+    # Inicializar variables
+    tiempo = None
+    distancia = None
 
-    # Obtener tiempo y distancia
-    tiempo, distancia = ObtenerRuta(lat_origen, lon_origen, lat_destino, lon_destino)
-    
-    # Preparar los datos para el modelo
-    new_data= np.array([[distancia,tiempo]])
-    
-    # predecir la tarifa
-    tarifa= modelo.predict(new_data)[0]
-    
-    # Mostrar resultados
-    if tiempo and distancia:
-        st.write(f'Tiempo estimado: {tiempo} minutos, distancia a recorrer: {distancia} millas, el valor de su tarifa es: {round(tarifa,1)}$')
+    if direccion_origen == "" or direccion_destino == "":
+        st.write('Direcciones no ingresadas.')
     else:
-        st.write('No se pudo calcular la ruta. Por favor, verifica las direcciones ingresadas.')
+        # Obtener coordenadas
+        lat_origen, lon_origen = ObtenerCoordenadas(direccion_origen)
+        lat_destino, lon_destino = ObtenerCoordenadas(direccion_destino)
+
+        # Obtener tiempo y distancia
+        tiempo, distancia = ObtenerRuta(lat_origen, lon_origen, lat_destino, lon_destino)
+        
+        # Verificar que tiempo y distancia no sean NaN
+        if np.isnan(tiempo) or np.isnan(distancia):
+            st.write('No se pudo calcular la ruta. Por favor, verifica las direcciones ingresadas.')
+        else:
+            # Preparar los datos para el modelo
+            new_data = np.array([[distancia, tiempo]])
+            
+            # Predecir la tarifa
+            tarifa = modelo.predict(new_data)[0]
+            
+            # Mostrar resultados
+            st.write(f'Tiempo estimado: {tiempo} minutos, distancia a recorrer: {distancia} millas, el valor de su tarifa es: {round(tarifa, 1)}$')
+
 

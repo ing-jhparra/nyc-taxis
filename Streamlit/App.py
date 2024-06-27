@@ -59,7 +59,8 @@ st.title("Bienvenido a la app de Creative Mobile Technologies")
 st.markdown("*Esta aplicación te dará el precio de tu tarifa una vez ingreses las direcciones*", unsafe_allow_html=True)
 
 # Definimos las ciudades en donde se opera 
-ciudades = ['New York', 'Barranquilla', 'Próximamente']
+ciudades = ['New York', 'Barranquilla', 'Córdoba,  Córdoba (Capital)', 'Buenos Aires, CABA',
+            'San Juan, San Juan','Barquisimeto','Próximamente']
 
 # Crear una barra de entrada para la dirección de origen
 ciudad = st.selectbox(label="", options=ciudades)

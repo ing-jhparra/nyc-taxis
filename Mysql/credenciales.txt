@@ -1,0 +1,5 @@
+usuario=root
+contrasena=admin
+host=localhost
+database=Data_Warehouse
+table_name_ML=yellow_tripdata_2023_07

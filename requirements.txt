@@ -5,3 +5,5 @@ numpy
 pandas
 nltk
 requests
+streamlit 
+opencage

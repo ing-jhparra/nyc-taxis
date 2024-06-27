@@ -72,12 +72,12 @@ Evaluar la viabilidad y el impacto de la implementación de vehículos Eléctric
 
 ## Indicadores claves de Desempeño
 
-1. **TasaReducción_Carbono**: Reducir en un 50% la emisión de dióxido de carbono en comparación con los taxis tradicionales a gasolina.
+1. **TasaReducción_Carbono**: Reducir en un 50% la emisión de dióxido de carbono en comparación con los taxis tradicionales a gasolina, alcanzar esta meta en un plazo de 1 año.
    <center>
-$\frac{\text{Cantidad de carbono emitida por taxis alternativos}}{\text{Cantidad de carbono emitida por taxis tradicionales}} \times 100$
+$\frac{\text{Cantidad de carbono emitida por taxis alternativos}}{\text{Cantidad de carbono emitida por taxis tradicionales}} \times 100$ 
 </center>
 
-2. **TasaGanancia_Bruta**: Superar en un 10% la tasa media de ganancia bruta con taxis alternativos respecto a los taxis tradicionales.
+2. **TasaGanancia_Bruta**: Superar en un 10% la tasa media de ganancia bruta con taxis alternativos respecto a los taxis tradicionales, Alcanzar esta meta en un plazo de 1 año
 
    <center>
 $\frac{\text{Ganancia bruta taxis alternativos}}{\text{Ganancia bruta taxis tradicionales}} \times 100$
@@ -85,7 +85,7 @@ $\frac{\text{Ganancia bruta taxis alternativos}}{\text{Ganancia bruta taxis trad
 
   **Ganancia Bruta = Ingreso por Taxi - Costos de Combustible**
 
-3. **Tiempo_Retorno_Inversión**: Medir el retorno de inversión de la implementación de la flota de taxis.
+3. **Tiempo_Retorno_Inversión**: Medir el retorno de inversión de la implementación de la flota de taxis y Lograr el retorno de la inversión en menos de 5 años.
 
    <center>
 $\frac{\text{Inversión total}}{\text{Ganancia bruta diaria}}$
@@ -140,6 +140,25 @@ $\frac{\text{Inversión total}}{\text{Ganancia bruta diaria}}$
 
 Google Cloud ofrece una infraestructura escalable adaptable a las necesidades de crecimiento de cualquier organización. Un servicio Google Storage, para un Data Lake , que permite almacenar cantidades masivas de datos sin preocuparse por las limitaciones de capacidad. Además, Google BigQuery, como plataforma de analíticas de datos, que permite realizar consultas de manera rápida y eficiente, lo que es esencial para el análisis de grandes volúmenes de datos.
 Google Cloud proporciona una integración entre distintos servicios. El proceso ETL/ELT que puede ser gestionado eficientemente utilizando herramientas como Google Cloud Dataflow, que permite el procesamiento de datos en tiempo real y por lotes. La compatibilidad de BigQuery con diversas herramientas de ETL/ELT garantiza que los datos sean procesados y transferidos sin problemas desde el data lake a BigQuery.
+
+### Diagram de E/R de la base de datos 
+
+A continuación, se presenta el diagrama de Entidad-Relación (E/R) de nuestra base de datos. Este diagrama ilustra las entidades principales, sus atributos y las relaciones entre ellas, proporcionando una visión clara de la estructura y organización de los datos. Es una herramienta fundamental para entender cómo se conectan y se interactúan los distintos componentes de la base de datos.
+
+<img src="img/DER_NYC.png"> 
+
+## Diagrama de de gantt y las distribución la tareas en la semanas
+
+Adoptamos SCRUM con reuniones diarias para revisar el avance y organizar las actividades. Empleamos un gráfico de Gantt y Jira para representar las tareas, sus tiempos y relaciones, lo que simplifica la organización y monitoreo del proyecto. Además, hemos dividido el proyecto en tres sprints para una gestión más efectiva y un seguimiento más detallado de cada fase
+
+### Sprint 1
+<img src="img/Semana1.png"> 
+
+### Sprint 2
+<img src="img/Semana2.png"> 
+
+### Sprint 3
+<img src="img/Semana3.png"> 
 
 ## Contribución
 

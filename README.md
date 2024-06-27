@@ -117,9 +117,15 @@ $\frac{\text{Inversión total}}{\text{Ganancia bruta diaria}}$
 
 **Propuesta 2**: Servicios de la Nube
 
+<div style="display: flex; justify-content:space-between;">
+        <img src="img/Arquitectura.png" alt="Imagen 3" width="51%" height="51%">
+</div>
+</br>
+
 * **Lucidchart**: Como software de diagramación online.
 * **Cloud Storage**: Para el almacenamiento de datos en la nube.
 * **Cloud Functions**: Para la ejecución de código sin necesidad de gestionar servidores.
+* **Cloud Scheduler**: Para orquestar el flujo de trabajo.
 * **BigQuery**: Para el análisis y procesamiento de grandes conjuntos de datos.
 
 ### Herramientas para la Visualización de Datos

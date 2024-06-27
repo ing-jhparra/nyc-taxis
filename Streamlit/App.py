@@ -58,12 +58,19 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 st.title("Bienvenido a la app de Creative Mobile Technologies")
 st.markdown("*Esta aplicación te dará el precio de tu tarifa una vez ingreses las direcciones*", unsafe_allow_html=True)
 
+# Definimos las ciudades en donde se opera 
+ciudades = ['New York', 'Barranquilla', 'Próximamente']
+
+# Crear una barra de entrada para la dirección de origen
+ciudad = st.selectbox(label="", options=ciudades)
+
 # Crear una barra de entrada para la dirección de origen
 direccion_origen = st.text_input(label="", placeholder="Ingrese su dirección de origen:")
+direccion_origen= f"{direccion_origen}, {ciudad}"
 
 # Crear una barra de entrada para la dirección de destino
 direccion_destino = st.text_input(label="", placeholder="Ingrese su dirección de destino:")
-
+direccion_destino= f"{direccion_destino}, {ciudad}" 
 # Añadir un botón para calcular la ruta
 if st.button("Calcular"):
     # Inicializar variables

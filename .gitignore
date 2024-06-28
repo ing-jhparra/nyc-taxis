@@ -1,6 +1,8 @@
 # Directorios
 .venv
+.devcontainer
 **__pycache__
+**__init__.py
 
 # Archivos
 config.py

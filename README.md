@@ -157,7 +157,7 @@ Google Cloud proporciona una integración entre distintos servicios. El proceso 
 
 A continuación, se presenta el diagrama de Entidad-Relación (E/R) de nuestra base de datos. Este diagrama ilustra las entidades principales, sus atributos y las relaciones entre ellas, proporcionando una visión clara de la estructura y organización de los datos. Es una herramienta fundamental para entender cómo se conectan y se interactúan los distintos componentes de la base de datos.
 
-<img src="img/DER_NYC.png"> 
+<img src="img\DER_NYC_Taxis.png"> 
 
 ## Diagrama de de gantt y las distribución la tareas en la semanas
 

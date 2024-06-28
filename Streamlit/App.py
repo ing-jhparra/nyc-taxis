@@ -67,11 +67,20 @@ ciudad = st.selectbox(label="", options=ciudades)
 
 # Crear una barra de entrada para la dirección de origen
 direccion_origen = st.text_input(label="", placeholder="Ingrese su dirección de origen:")
-direccion_origen= f"{direccion_origen}, {ciudad}"
+
+if direccion_origen=='':
+    direccion_origen= ''
+else:
+    direccion_origen= f"{direccion_origen}, {ciudad}"
 
 # Crear una barra de entrada para la dirección de destino
 direccion_destino = st.text_input(label="", placeholder="Ingrese su dirección de destino:")
-direccion_destino= f"{direccion_destino}, {ciudad}" 
+if direccion_destino=='':
+    direccion_destino= ''
+else:
+    direccion_destino= f"{direccion_destino}, {ciudad}"
+
+
 # Añadir un botón para calcular la ruta
 if st.button("Calcular"):
     # Inicializar variables

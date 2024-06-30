@@ -5,6 +5,13 @@
    <br />
 </p>
 
+<p align="center">
+   <br />
+   <img src="img\Logo_cliente.jpeg" width="55%">
+   <br />
+</p>
+
+
 ## Contenido
 
 * [Introdcción](#Introducción)
@@ -150,19 +157,35 @@ Google Cloud proporciona una integración entre distintos servicios. El proceso 
 
 A continuación, se presenta el diagrama de Entidad-Relación (E/R) de nuestra base de datos. Este diagrama ilustra las entidades principales, sus atributos y las relaciones entre ellas, proporcionando una visión clara de la estructura y organización de los datos. Es una herramienta fundamental para entender cómo se conectan y se interactúan los distintos componentes de la base de datos.
 
-<img src="img/DER_NYC.png"> 
+<img src="img\DER_NYC_Taxis.png"> 
 
 ## Diagrama de de gantt y las distribución la tareas en la semanas
 
 Adoptamos SCRUM con reuniones diarias para revisar el avance y organizar las actividades. Empleamos un gráfico de Gantt y Jira para representar las tareas, sus tiempos y relaciones, lo que simplifica la organización y monitoreo del proyecto. Además, hemos dividido el proyecto en tres sprints para una gestión más efectiva y un seguimiento más detallado de cada fase
 
 ### Sprint 1
+#### Diagrama de Gannt del primer sprint:
+
 <img src="img/Semana1.png"> 
 
+<a href="https://prezi.com/view/pvweYTGST5krJY1gnDmv/">
+    <img src="img\Prezi_logo.png" width="40px"> 
+    <strong style="font-size: 1.2em;">Presentación primer sprint</strong>
+</a>
+
 ### Sprint 2
+#### Diagrama de Gannt del segundo sprint:
+
 <img src="img/Semana2.png"> 
 
+<a href="https://docs.google.com/presentation/d/1VRstjEbTX15bOQhK2bVjOZgtzYu7yK3clcrjbERmqiY/edit?usp=sharing">
+    <img src="img\PowerPoint.png" width="40px"> 
+    <strong style="font-size: 1.2em;">Presentación segundo sprint</strong>
+</a>
+
 ### Sprint 3
+#### Diagrama de Gannt del tercer sprint:
+
 <img src="img/Semana3.png"> 
 
 ## Contribución

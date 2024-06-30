@@ -62,23 +62,26 @@ st.markdown("*Esta aplicación te dará el precio de tu tarifa una vez ingreses 
 ciudades = ['New York', 'Barranquilla', 'Córdoba,  Córdoba (Capital)', 'Buenos Aires, CABA',
             'San Juan, San Juan','Barquisimeto','Próximamente']
 
+
 # Crear una barra de entrada para la dirección de origen
 ciudad = st.selectbox(label="", options=ciudades)
-
-# Crear una barra de entrada para la dirección de origen
-direccion_origen = st.text_input(label="", placeholder="Ingrese su dirección de origen:")
-
-if direccion_origen=='':
-    direccion_origen= ''
+if ciudad== 'Próximamente':
+    st.write('Lo sentimos, aún no tenemos operación es este lugar 😕.')
 else:
-    direccion_origen= f"{direccion_origen}, {ciudad}"
+    # Crear una barra de entrada para la dirección de origen
+    direccion_origen = st.text_input(label="", placeholder="Ingrese su dirección de origen:")
 
-# Crear una barra de entrada para la dirección de destino
-direccion_destino = st.text_input(label="", placeholder="Ingrese su dirección de destino:")
-if direccion_destino=='':
-    direccion_destino= ''
-else:
-    direccion_destino= f"{direccion_destino}, {ciudad}"
+    if direccion_origen=='':
+        direccion_origen= ''
+    else:
+        direccion_origen= f"{direccion_origen}, {ciudad}"
+
+    # Crear una barra de entrada para la dirección de destino
+    direccion_destino = st.text_input(label="", placeholder="Ingrese su dirección de destino:")
+    if direccion_destino=='':
+        direccion_destino= ''
+    else:
+        direccion_destino= f"{direccion_destino}, {ciudad}"
 
 
 # Añadir un botón para calcular la ruta

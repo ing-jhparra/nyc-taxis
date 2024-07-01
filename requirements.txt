@@ -9,3 +9,4 @@ streamlit
 opencage
 joblib
 folium
+streamlit-folium

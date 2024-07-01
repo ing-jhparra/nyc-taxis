@@ -2,10 +2,10 @@ from opencage.geocoder import OpenCageGeocode
 import requests
 import folium
 from streamlit_folium import folium_static
-from config import OPENCAGE_API_KEY
+import streamlit as st 
 
 
-key = OPENCAGE_API_KEY
+key = st.secrets['OPENCAGE_API_KEY']
 geocoder = OpenCageGeocode(key)
 
 def ObtenerCoordenadas(query:str):

@@ -18,8 +18,6 @@ Sabemos que la movilidad en las ciudades es un tema importante, el tránsito de 
 </div>
 
 
-<br>
-
 ## Objetivo General
 
 Evaluar la viabilidad y el impacto de la implementación de vehículos Eléctricos / Híbridos / Gasolina en la flota de transporte de pasajeros de la empresa, utilizando datos de viajes en taxis y servicios de transporte compartido en Nueva York, así como datos de calidad del aire, para proporcionar recomendaciones estratégicas basadas en análisis de datos robustos

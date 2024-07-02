@@ -1,4 +1,4 @@
-#  Implementación de una Flota de Taxis Eléctricos en Nueva York
+#  Análisis de la Implementación de Vehículos Eléctricos en el Transporte de Pasajeros en NYC
 <p align="center">
    <br />
    <img src="img\Logo_cliente.jpeg" width="55%">
@@ -11,12 +11,14 @@ Sabemos que la movilidad en las ciudades es un tema importante, el tránsito de 
 
 ## Nuestro Rol
 <div style="display: flex; align-items: center;">
-    <img align="left" src="img/LogoGendata.jpeg" width="250" height="250" style="margin-right: 20px;">
+    <img src="img/LogoGendata.jpeg" alt="Logo Gendata" width="250" height="250" style="margin-right: 20px;">
     <div>
         <p>Gendata como empresa consultora designada para este espectacular proyecto, nos hemos propuesto abarcar desde todas las perspectivas: ingeniería, análisis y ciencia de datos, para entregar un producto completo para nuestro cliente y su público objetivo.</p>
     </div>
 </div>
 
+
+<br>
 
 ## Objetivo General
 

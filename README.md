@@ -17,6 +17,7 @@ Sabemos que la movilidad en las ciudades es un tema importante, el tránsito de 
     </div>
 </div>
 
+<br />
 
 ## Objetivo General
 
@@ -47,9 +48,11 @@ Para este proyecto usaremos distintos datos
 
 **Dashboard interactivo**: Un tablero de control interactivo que presentará información relevante basada en los KPI definidos, promoviendo una toma de decisiones informada y efectiva.
 
-<div style="display: flex; justify-content: center;">
-    <img align="center "src="img/logos.png" alt="Imagen 3" width="51%" height="51%">
-</div>
+<p align="center">
+   <br />
+   <img src="img/logos.png" width="51%" height="51%">
+   <br />
+</p>
 
 ## Tecnologías Utilizadas
 

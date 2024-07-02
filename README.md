@@ -11,7 +11,7 @@ Sabemos que la movilidad en las ciudades es un tema importante, el tránsito de 
 
 ## Nuestro Rol
 <div style="display: flex; align-items: center;">
-    <img src="img/LogoGendata.jpeg" width="250" height="250" style="margin-right: 20px;">
+    <img align="left" src="img/LogoGendata.jpeg" width="250" height="250" style="margin-right: 20px;">
     <div>
         <p>Gendata como empresa consultora designada para este espectacular proyecto, nos hemos propuesto abarcar desde todas las perspectivas: ingeniería, análisis y ciencia de datos, para entregar un producto completo para nuestro cliente y su público objetivo.</p>
     </div>
@@ -48,7 +48,7 @@ Para este proyecto usaremos distintos datos
 **Dashboard interactivo**: Un tablero de control interactivo que presentará información relevante basada en los KPI definidos, promoviendo una toma de decisiones informada y efectiva.
 
 <div style="display: flex; justify-content: center;">
-    <img src="img/logos.png" alt="Imagen 3" width="51%" height="51%">
+    <img align="center "src="img/logos.png" alt="Imagen 3" width="51%" height="51%">
 </div>
 
 ## Tecnologías Utilizadas

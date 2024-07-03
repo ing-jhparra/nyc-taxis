@@ -57,3 +57,11 @@ Implementación de un data warehouse para almacenar los datos.
 </br>
 
 ## App Engine
+
+Google App Engine es una plataforma como servicio (PaaS) proporcionada por Google Cloud Platform. Permite a los desarrolladores crear y desplegar aplicaciones web y móviles sin necesidad de gestionar la infraestructura subyacente. Con App Engine, los desarrolladores pueden centrarse en escribir código mientras Google maneja automáticamente el escalado, el balanceo de carga, la seguridad y el mantenimiento del servidor
+
+Despliegue de la aplicación Streamlit para el modelo predictivo.
+<div style="display: flex; justify-content:space-between;">
+        <img src="../img/app_engine.png" alt="Imagen 3" width="800" height="350">
+</div>
+</br>

@@ -1,4 +1,4 @@
-#  Implementación de una Flota de Taxis Eléctricos en Nueva York
+#  Análisis de la Implementación de Vehículos Eléctricos en el Transporte de Pasajeros en NYC
 <p align="center">
    <br />
    <img src="img\Logo_cliente.jpeg" width="55%">
@@ -10,12 +10,10 @@
 Sabemos que la movilidad en las ciudades es un tema importante, el tránsito de vehículos en New York no es la excepción, se ha aumentado la demanda de taxis y con ella se han visto afectadas otras dimesiones, como ejemplo tenemos el transporte, que es el sector que más emisiones de CO2 produce en Estados Unidos. Por esto y para mitigar su impacto ambiental sin descuidar las necesidades de transporte, este proyecto explotarará la incorporación de una flota de taxis eléctricos en New York.
 
 ## Nuestro Rol
-<div style="display: flex; align-items: center;">
-    <img align="left" src="img/LogoGendata.jpeg" width="250" height="250" style="margin-right: 20px;">
-    <div>
-        <p>Gendata como empresa consultora designada para este espectacular proyecto, nos hemos propuesto abarcar desde todas las perspectivas: ingeniería, análisis y ciencia de datos, para entregar un producto completo para nuestro cliente y su público objetivo.</p>
-    </div>
-</div>
+<p>Gendata, como empresa consultora designada para este espectacular proyecto, nos hemos propuesto abarcar desde todas las perspectivas: ingeniería, análisis y ciencia de datos, para entregar un producto completo para nuestro cliente y su público objetivo.</p>
+ <p>Nos dedicamos a diseñar soluciones innovadoras y eficientes, asegurando la máxima calidad en cada etapa del proyecto. Hacemos todo con el fin proporcionar insights valiosos y facilitar la toma de decisiones que informadas que conlleven a una mejora significativa para nuestros clientes.</p>
+
+<p align = 'center'><img src="img/LogoGendata.jpeg" width=300 height=300> </p>
 
 <br />
 
@@ -37,7 +35,7 @@ Evaluar la viabilidad y el impacto de la implementación de vehículos Eléctric
 6. Brindar toda la información posible y útil al cliente para que pueda tomar decisiones informadas y basadas en datos.
 
 ## Conjunto de Datos
-Para este proyecto usaremos distintos datos 
+Para este proyecto usaremos distintos datos, que nos permitan englobar desde las áreas este proyecto:
 1. **Data de viajes**
 2. **Dataset de Kaggle sobre emisiones de CO2 por país y año, con ajustes por población**
 3. **Dataset de los sonidos recolectados en NYC**

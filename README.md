@@ -56,6 +56,24 @@ Para este proyecto usaremos distintos datos, que nos permitan englobar desde las
    <br />
 </p>
 
+## Nuestra plataforma y productos 
+
+Contamos con nuestra web donde podrás encontrar los productos desarrollados durante este proyecto.
+En ella puedes encontrar:
+
+* **Home**: Presentación del proyecto.
+* **Sobre nosotros**: Información sobre nuestra empresa, quiénes somos y qué hacemos.
+* **Productos**: En esta sección encontrarás los productos que desarrollamos para este proyecto y la descripción de cada uno de ellos.
+* **Equipo**: En este apartado conocerás al increíble equipo que desarrolló este proyecto y su información de contacto.
+
+
+<p align="center">
+  <a href="https://gendatanyc-taxis.web.app/">
+    <img src="img\Gif-Pagina.gif" alt="GIF" width="900" height="500" />
+  </a>
+</p>
+
+
 ## Tecnologías Utilizadas
 
 ### Herramientas de Organización y Comunicación

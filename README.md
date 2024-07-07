@@ -1,49 +1,41 @@
-# Proyecto: Implementación de una Flota de Taxis Eléctricos en Nueva York
-<p align="center">
-   <br />
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   <br />
-</p>
-
+#  Análisis de la Implementación de Vehículos Eléctricos en el Transporte de Pasajeros en NYC
 <p align="center">
    <br />
    <img src="img\Logo_cliente.jpeg" width="55%">
    <br />
 </p>
 
+## Contextualización 
 
-## Contenido
+Sabemos que la movilidad en las ciudades es un tema importante, el tránsito de vehículos en New York no es la excepción, se ha aumentado la demanda de taxis y con ella se han visto afectadas otras dimesiones, como ejemplo tenemos el transporte, que es el sector que más emisiones de CO2 produce en Estados Unidos. Por esto y para mitigar su impacto ambiental sin descuidar las necesidades de transporte, este proyecto explotarará la incorporación de una flota de taxis eléctricos en New York.
 
-* [Introdcción](#Introducción)
+## Nuestro Rol
+<p>Gendata, como empresa consultora designada para este espectacular proyecto, nos hemos propuesto abarcar desde todas las perspectivas: ingeniería, análisis y ciencia de datos, para entregar un producto completo para nuestro cliente y su público objetivo.</p>
+ <p>Nos dedicamos a diseñar soluciones innovadoras y eficientes, asegurando la máxima calidad en cada etapa del proyecto. Hacemos todo con el fin proporcionar insights valiosos y facilitar la toma de decisiones que informadas que conlleven a una mejora significativa para nuestros clientes.</p>
 
-* [Descripción](#Descripción)
+<p align = 'center'><img src="img/LogoGendata.jpeg" width=300 height=300> </p>
 
-* [Conjunto de Datos](#Conjunto-de-Datos)
+<br />
 
-* [Propuesta](#Propuesta)
 
-* [Objetivo General y Específicos](#Objetivo-General-y-Específicos)
 
-* [Indicadores claves de Desempeño](#Indicadores-claves-de-Desempeño)
+<br />
 
-* [Tecnologías utilizadas](#Tecnologías-Utilizadas)
+## Objetivo General
 
-* [Conclusión](#Conclusión)
+Evaluar la viabilidad y el impacto de la implementación de vehículos Eléctricos / Híbridos / Gasolina en la flota de transporte de pasajeros de la empresa, utilizando datos de viajes en taxis y servicios de transporte compartido en Nueva York, así como datos de calidad del aire, para proporcionar recomendaciones estratégicas basadas en análisis de datos robustos
 
-* [Recomendaciones](#Recomendaciones)
+## Objetivos Específicos
 
-* [Autores](#Autores)
-
-## Introducción
-
-Sabemos que la movilidad en las ciudades es un tema importante, el tránsito de vehículos en New York no es la excepción, se ha aumentado la demanda de taxis y con ella se han visto afectadas otras dimesiones. El transporte es el sector que más emisiones de CO2 produce en Estados Unidos. Para mitigar su impacto ambiental sin descuidar las necesidades de transporte, este proyecto explotarará la incorporación de una flota de taxis eléctricos en New York.
-
-## Descripción
-
-El objetivo principal de este proyecto es analizar la viabilidad de implementar una flota de taxis eléctricos en Nueva York, considerando su impacto en la reducción de emisiones de CO2, la mejora de la calidad del aire y la reducción de la contaminación sonora.
+1. Evaluar la viabilidad económica de la implementación de distintos tipos de vehículos, considerando costos, rendimiento y retorno de inversión, entre otros factores.
+2. Estudiar cómo la implementación de taxis alternativos mejora la calidad del aire en Nueva York, comparando datos de calidad del aire antes y después de la implementación.
+3. Proporcionar un modelo de Machine Learning que ayude en distintos aspectos del proyecto, como el cálculo de tarifas de los viajes.
+4. Comparar las emisiones de CO2 entre taxis tradicionales y taxis alternativos para analizar la viabilidad ambiental.
+5. Analizar la demanda de taxis en diferentes zonas para poder focalizar la operación.
+6. Brindar toda la información posible y útil al cliente para que pueda tomar decisiones informadas y basadas en datos.
 
 ## Conjunto de Datos
-
+Para este proyecto usaremos distintos datos, que nos permitan englobar desde las áreas este proyecto:
 1. **Data de viajes**
 2. **Dataset de Kaggle sobre emisiones de CO2 por país y año, con ajustes por población**
 3. **Dataset de los sonidos recolectados en NYC**
@@ -58,45 +50,29 @@ El objetivo principal de este proyecto es analizar la viabilidad de implementar 
 
 **Dashboard interactivo**: Un tablero de control interactivo que presentará información relevante basada en los KPI definidos, promoviendo una toma de decisiones informada y efectiva.
 
-<div style="display: flex; justify-content:space-between;">
-        <img src="img/logos.png" alt="Imagen 3" width="51%" height="51%">
-</div>
+<p align="center">
+   <br />
+   <img src="img/logos.png" width="51%" height="51%">
+   <br />
+</p>
 
-## Objetivo General y Específicos
+## Nuestra plataforma y productos 
 
-### Objetivo General
+Contamos con nuestra web donde podrás encontrar los productos desarrollados durante este proyecto.
+En ella puedes encontrar:
 
-Evaluar la viabilidad y el impacto de la implementación de vehículos Eléctricos / Híbridos / Gasolina en la flota de transporte de pasajeros de la empresa, utilizando datos de viajes en taxis y servicios de transporte compartido en Nueva York, así como datos de calidad del aire, para proporcionar recomendaciones estratégicas basadas en análisis de datos robustos
+* **Home**: Presentación del proyecto.
+* **Sobre nosotros**: Información sobre nuestra empresa, quiénes somos y qué hacemos.
+* **Productos**: En esta sección encontrarás los productos que desarrollamos para este proyecto y la descripción de cada uno de ellos.
+* **Equipo**: En este apartado conocerás al increíble equipo que desarrolló este proyecto y su información de contacto.
 
-### Objetivos Específicos
 
-1. Evaluar la viabilidad económica de la implementación de distintos tipos de vehículos, considerando costos, rendimiento y retorno de inversión, entre otros factores.
-2. Estudiar cómo la implementación de taxis alternativos mejora la calidad del aire en Nueva York, comparando datos de calidad del aire antes y después de la implementación.
-3. Proporcionar un modelo de Machine Learning que ayude en distintos aspectos del proyecto, como el cálculo de tarifas de los viajes.
-4. Comparar las emisiones de CO2 entre taxis tradicionales y taxis alternativos para analizar la viabilidad ambiental.
-5. Analizar la demanda de taxis en diferentes zonas para poder focalizar la operación.
-6. Brindar toda la información posible y útil al cliente para que pueda tomar decisiones informadas y basadas en datos.
+<p align="center">
+  <a href="https://gendatanyc-taxis.web.app/">
+    <img src="img\Gif-Pagina.gif" alt="GIF" width="900" height="500" />
+  </a>
+</p>
 
-## Indicadores claves de Desempeño
-
-1. **TasaReducción_Carbono**: Reducir en un 50% la emisión de dióxido de carbono en comparación con los taxis tradicionales a gasolina, alcanzar esta meta en un plazo de 1 año.
-   <center>
-$\frac{\text{Cantidad de carbono emitida por taxis alternativos}}{\text{Cantidad de carbono emitida por taxis tradicionales}} \times 100$ 
-</center>
-
-2. **TasaGanancia_Bruta**: Superar en un 10% la tasa media de ganancia bruta con taxis alternativos respecto a los taxis tradicionales, Alcanzar esta meta en un plazo de 1 año
-
-   <center>
-$\frac{\text{Ganancia bruta taxis alternativos}}{\text{Ganancia bruta taxis tradicionales}} \times 100$
-</center>
-
-  **Ganancia Bruta = Ingreso por Taxi - Costos de Combustible**
-
-3. **Tiempo_Retorno_Inversión**: Medir el retorno de inversión de la implementación de la flota de taxis y Lograr el retorno de la inversión en menos de 5 años.
-
-   <center>
-$\frac{\text{Inversión total}}{\text{Ganancia bruta diaria}}$
-</center>
 
 ## Tecnologías Utilizadas
 
@@ -129,7 +105,7 @@ $\frac{\text{Inversión total}}{\text{Ganancia bruta diaria}}$
 **Propuesta 2**: Servicios de la Nube
 
 <div style="display: flex; justify-content:space-between;">
-        <img src="img/Arquitectura.png" alt="Imagen 3" width="51%" height="51%">
+        <img src="img/Arquitectura.png" alt="Imagen 3" width="800" height="350">
 </div>
 </br>
 
@@ -153,20 +129,13 @@ $\frac{\text{Inversión total}}{\text{Ganancia bruta diaria}}$
 Google Cloud ofrece una infraestructura escalable adaptable a las necesidades de crecimiento de cualquier organización. Un servicio Google Storage, para un Data Lake , que permite almacenar cantidades masivas de datos sin preocuparse por las limitaciones de capacidad. Además, Google BigQuery, como plataforma de analíticas de datos, que permite realizar consultas de manera rápida y eficiente, lo que es esencial para el análisis de grandes volúmenes de datos.
 Google Cloud proporciona una integración entre distintos servicios. El proceso ETL/ELT que puede ser gestionado eficientemente utilizando herramientas como Google Cloud Dataflow, que permite el procesamiento de datos en tiempo real y por lotes. La compatibilidad de BigQuery con diversas herramientas de ETL/ELT garantiza que los datos sean procesados y transferidos sin problemas desde el data lake a BigQuery.
 
-### Diagrama de E/R de la base de datos 
-
-A continuación, se presenta el diagrama de Entidad-Relación (E/R) de nuestra base de datos. Este diagrama ilustra las entidades principales, sus atributos y las relaciones entre ellas, proporcionando una visión clara de la estructura y organización de los datos. Es una herramienta fundamental para entender cómo se conectan y se interactúan los distintos componentes de la base de datos.
-
-<img src="img\DER_NYC_Taxis.png"> 
-
-## Diagrama de de gantt y las distribución la tareas en la semanas
+## Distribución la tareas en la semanas
 
 Adoptamos SCRUM con reuniones diarias para revisar el avance y organizar las actividades. Empleamos un gráfico de Gantt y Jira para representar las tareas, sus tiempos y relaciones, lo que simplifica la organización y monitoreo del proyecto. Además, hemos dividido el proyecto en tres sprints para una gestión más efectiva y un seguimiento más detallado de cada fase
 
 ### Sprint 1
-#### Diagrama de Gannt del primer sprint:
 
-<img src="img/Semana1.png"> 
+Durante el primer sprint del proyecto, nos enfocamos en establecer una base sólida para el desarrollo del producto final. Utilizamos técnicas avanzadas de ciencia de datos y análisis para maximizar el valor entregado al cliente y su público objetivo. Se seleccionaron tecnologías adecuadas para manejar eficientemente los datos, se exploraron modelos de machine learning para predecir tarifas de taxi y se organizó una estructura de trabajo clara para asegurar un flujo de trabajo ordenado y eficaz. Este sprint sentó las bases para futuros desarrollos y refinamientos del producto.
 
 <a href="https://prezi.com/view/pvweYTGST5krJY1gnDmv/">
     <img src="img\Prezi_logo.png" width="40px"> 
@@ -174,9 +143,8 @@ Adoptamos SCRUM con reuniones diarias para revisar el avance y organizar las act
 </a>
 
 ### Sprint 2
-#### Diagrama de Gannt del segundo sprint:
+Durante este sprint, hemos avanzado significativamente en el proyecto mediante la incorporación de funciones complejas adicionales y la respuesta a las necesidades específicas planteadas por el Product Owner. Se ha desarrollado un proceso automatizado y unificado para la extracción, transformación y carga de datos, garantizando la reproducibilidad y eficiencia en todas las etapas. Además, hemos delineado un ciclo completo del dato, desde la captura inicial hasta su análisis y disponibilidad para su uso en aplicaciones de machine learning y dashboards, hemos implementado un pipeline end-to-end diseñado para adaptarse a las necesidades del proyecto, utilizando herramientas de orquestación para gestionar de manera eficiente las tareas críticas del proceso. Este sprint ha fortalecido significativamente la infraestructura de datos del proyecto, proporcionando una base sólida y escalable para futuros desarrollos y mejoras.
 
-<img src="img/Semana2.png"> 
 
 <a href="https://docs.google.com/presentation/d/1VRstjEbTX15bOQhK2bVjOZgtzYu7yK3clcrjbERmqiY/edit?usp=sharing">
     <img src="img\PowerPoint.png" width="40px"> 
@@ -184,9 +152,13 @@ Adoptamos SCRUM con reuniones diarias para revisar el avance y organizar las act
 </a>
 
 ### Sprint 3
-#### Diagrama de Gannt del tercer sprint:
 
-<img src="img/Semana3.png"> 
+Se ha puesto un énfasis especial en el diseño visual del dashboard, asegurando que los colores, gráficos y elementos visuales estén adecuadamente adaptados al tipo de datos y escala apropiada. Se ha empleado una jerarquía visual clara para destacar la información más relevante y se han utilizado técnicas de diseño para guiar la atención del usuario hacia los elementos clave.
+
+El dashboard resultante es interactivo y permite explorar los datos de manera intuitiva. Los filtros, selecciones y acciones implementadas mejoran la experiencia del usuario y facilitan el análisis de datos estratégicos. Se han integrado al menos tres KPIs bien formulados que reflejan el enfoque del negocio, presentados de manera efectiva en visualizaciones adecuadas
+
+Finalmente, el modelo de machine learning se encuentra deployado en la web, accesible a través de una interfaz gráfica tipo Streamlit. Esta implementación asegura que la salida del modelo pueda ser consumida por otros componentes del proyecto de manera efectiva.
+
 
 ## Contribución
 
@@ -197,13 +169,9 @@ Por favor, sigue estas pautas para contribuir al proyecto:
 4. Sube tus cambios (`git push origin feature/nueva-feature`).
 5. Abre un Pull Request.
 
-## Conclusión
-
-## Recomendaciones
-
 ## Autores
 
-La dedicación y el trabajo en equipo de estas personas hicieron posible la realización de este proyecto
+La dedicación y el trabajo en equipo de Gendata, estas personas hicieron posible la realización de este proyecto.
 
 | [<img src="https://avatars.githubusercontent.com/u/166193432?v=4" width=115><br><sub>Juan Camilo Torres Salas</sub>](https://github.com/JuankTS/JuankTS) | [<img src="https://avatars.githubusercontent.com/u/166779106?v=4" width=115><br><sub>Adrian Facundo Corvalan</sub>](https://github.com/facu-corvalan) | [<img src="https://avatars.githubusercontent.com/u/123128073?v=4" width=115><br><sub>Javier Yañez</sub>](https://github.com/javyleonhart) | [<img src="https://avatars.githubusercontent.com/u/163685041?v=4" width=115><br><sub>Michael Martinez</sub>](https://github.com/bkmay1417) | [<img src="https://avatars.githubusercontent.com/u/123877201?v=4" width=115><br><sub>Jesus H. Parra B.</sub>](https://github.com/ing-jhparra)
 | :---: | :---: | :---: | :---: | :---: |

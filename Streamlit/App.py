@@ -1,7 +1,7 @@
 # Importamos las librerías a usar 
 import numpy as np
 import streamlit as st 
-from funciones import ObtenerCoordenadas, ObtenerRuta
+from funciones import ObtenerCoordenadas, ObtenerRuta, MostrarMapa
 from joblib import load 
 import requests
 
@@ -113,4 +113,5 @@ if st.button("Calcular"):
             # Mostrar resultados
             st.write(f'Tiempo estimado: {tiempo} minutos, distancia a recorrer: {distancia} millas, el valor de su tarifa es: {round(tarifa, 1)}$')
 
+            MostrarMapa(lat_origen, lon_origen, lat_destino, lon_destino)
 

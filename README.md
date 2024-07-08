@@ -160,6 +160,11 @@ El dashboard resultante es interactivo y permite explorar los datos de manera in
 Finalmente, el modelo de machine learning se encuentra deployado en la web, accesible a través de una interfaz gráfica tipo Streamlit. Esta implementación asegura que la salida del modelo pueda ser consumida por otros componentes del proyecto de manera efectiva.
 
 
+<a href="https://view.genially.com/6684dffff3fef20014698a72/presentation-presentacion-nyc">
+    <img src="img\genially.png" width="40px"> 
+    <strong style="font-size: 1.2em;">Presentación tercer sprint</strong>
+</a>
+
 ## Contribución
 
 Por favor, sigue estas pautas para contribuir al proyecto:

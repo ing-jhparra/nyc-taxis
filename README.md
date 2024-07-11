@@ -165,6 +165,8 @@ Finalmente, el modelo de machine learning se encuentra deployado en la web, acce
     <strong style="font-size: 1.2em;">Presentación tercer sprint</strong>
 </a>
 
+[link del video del proyecto](https://youtu.be/46L_C6BMFh4)
+
 ## Contribución
 
 Por favor, sigue estas pautas para contribuir al proyecto:

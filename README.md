@@ -73,6 +73,10 @@ En ella puedes encontrar:
   </a>
 </p>
 
+<a href="https://gendatanyc-taxis.web.app/">
+    <img src="Website/assets/isologo_brand.png" width="160px"> 
+    <strong style="font-size: 1.2em;"> Link GendataNYC </strong>
+</a>
 
 ## Tecnologías Utilizadas
 
@@ -167,7 +171,23 @@ Finalmente, el modelo de machine learning se encuentra deployado en la web, acce
 
 ### Video final del proyecto
 
-[link del video del proyecto](https://youtu.be/46L_C6BMFh4)
+<a href="https://youtu.be/46L_C6BMFh4">
+    <img src="img\Youtube.png" width="40px"> 
+    <strong style="font-size: 1.2em;"> Video del Proyecto </strong>
+</a>
+
+
+
+<details>
+<summary>
+ Mas Detalles </summary>
+
+
+- [Mysql](./Mysql/Mysql.md)
+- [GCP](./GCP/README.md)
+- [MachineLearning](./MachineLearning/MachineLearning.md)
+- [Aplicativo](./Streamlit/Aplicativo.md)
+</details>
 
 ## Contribución
 

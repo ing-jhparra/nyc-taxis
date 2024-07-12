@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "production": "sturdy-quarter-427218-s2"
+  },
+  "targets": {
+    "sturdy-quarter-427218-s2": {
+      "hosting": {
+        "gentatanyc-taxis": [
+          "production"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
